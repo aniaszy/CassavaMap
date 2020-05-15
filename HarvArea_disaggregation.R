@@ -112,7 +112,7 @@ FinalPolygon <- Output[[1]]
 CountryHATotal14 <- Output[[2]]
 
 
-# Set the maximum value of hectares per pixel allowed
+# Set the maximum value of harv area hectares per pixel allowed
 MPPPV <- 50 
 
 # Calculate host density per pixel
