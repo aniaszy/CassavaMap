@@ -13,8 +13,9 @@ library(sp)
 library(raster)
 library(rgdal)
 
-# Load 2014 Population raster obtained from https://landscan.ornl.gov/
-PopRaster <- raster("C:/Repos/CassavaDensity/Population/LandScanRural5000maxThreshold.tif")
+# Load 2014 LandScan population raster obtained from https://landscan.ornl.gov/
+# This resource is not free and cannot be provided in this repository
+PopRaster <- raster("Landscan_2014_pop.tif")
 
 # Convert population raster into rural-only raster with a chosen threshold:
 
