@@ -1,0 +1,803 @@
+COUNTRY_CODE,COUNTRY_NAME,AREA_CODE,AREA_NAME,ADMIN_LEVEL,ITEM_CODE,ITEM_NAME,YEAR,AEREA_HARVESTED,SOURCE
+AGO,Angola,AGO001,Bengo,1,125,Cassava,Most recent,38565.3,AgroMapsAdm1
+AGO,Angola,AGO002,Benguela,1,125,Cassava,Most recent,59654.28,AgroMapsAdm1
+AGO,Angola,AGO003,Bie,1,125,Cassava,Most recent,70435.31,AgroMapsAdm1
+AGO,Angola,AGO004,Cabinda,1,125,Cassava,Most recent,61747.02,AgroMapsAdm1
+AGO,Angola,AGO005,Cuando Cubango,1,125,Cassava,Most recent,17641.21,AgroMapsAdm1
+AGO,Angola,AGO006,Cuanza Norte,1,125,Cassava,Most recent,72309.5,AgroMapsAdm1
+AGO,Angola,AGO007,Cuanza Sul,1,125,Cassava,Most recent,72882.46,AgroMapsAdm1
+AGO,Angola,AGO008,Cunene,1,125,Cassava,Most recent,3525.89,AgroMapsAdm1
+AGO,Angola,AGO009,Huambo,1,125,Cassava,Most recent,10588.49,AgroMapsAdm1
+AGO,Angola,AGO010,Huila,1,125,Cassava,Most recent,35754.39,AgroMapsAdm1
+AGO,Angola,AGO011,Luanda,1,125,Cassava,Most recent,1812.03,AgroMapsAdm1
+AGO,Angola,AGO012,Lunda Norte,1,125,Cassava,Most recent,79870.25,AgroMapsAdm1
+AGO,Angola,AGO013,Lunda Sul,1,125,Cassava,Most recent,85113.23,AgroMapsAdm1
+AGO,Angola,AGO014,Malanje,1,125,Cassava,Most recent,142551.9,AgroMapsAdm1
+AGO,Angola,AGO015,Moxico,1,125,Cassava,Most recent,87805.77,AgroMapsAdm1
+AGO,Angola,AGO016,Namibe,1,125,Cassava,Most recent,4906.57,AgroMapsAdm1
+AGO,Angola,AGO017,Uige,1,125,Cassava,Most recent,183085.8,AgroMapsAdm1
+AGO,Angola,AGO018,Zaire,1,125,Cassava,Most recent,34615.17,AgroMapsAdm1
+BFA,Burkina Faso,BFA046,Boucle du Mouhoun,1,125,Cassava,Most recent,,AgroMapsAdm1
+BFA,Burkina Faso,BFA047,Cascades,1,125,Cassava,Most recent,,AgroMapsAdm1
+BFA,Burkina Faso,BFA013,Centre,1,125,Cassava,Most recent,,AgroMapsAdm1
+BFA,Burkina Faso,BFA048,Centre-Est,1,125,Cassava,Most recent,,AgroMapsAdm1
+BFA,Burkina Faso,BFA049,Centre-Nord,1,125,Cassava,Most recent,,AgroMapsAdm1
+BFA,Burkina Faso,BFA050,Centre-Ouest,1,125,Cassava,Most recent,,AgroMapsAdm1
+BFA,Burkina Faso,BFA051,Centre-Sud,1,125,Cassava,Most recent,,AgroMapsAdm1
+BFA,Burkina Faso,BFA052,Est,1,125,Cassava,Most recent,,AgroMapsAdm1
+BFA,Burkina Faso,BFA053,Hauts-Bassins,1,125,Cassava,Most recent,,AgroMapsAdm1
+BFA,Burkina Faso,BFA054,Nord,1,125,Cassava,Most recent,,AgroMapsAdm1
+BFA,Burkina Faso,BFA055,Plateau Central,1,125,Cassava,Most recent,,AgroMapsAdm1
+BFA,Burkina Faso,BFA056,Sahel,1,125,Cassava,Most recent,,AgroMapsAdm1
+BFA,Burkina Faso,BFA057,Sud-Ouest,1,125,Cassava,Most recent,,AgroMapsAdm1
+BDI,Burundi,BDI001,Bubanza,1,125,Cassava,2008,6927,IITA
+BDI,Burundi,BDI002,Bujumbura,1,125,Cassava,2008,5845,IITA
+BDI,Burundi,BDI003,Bururi,1,125,Cassava,2008,4327,IITA
+BDI,Burundi,BDI004,Cankuzo,1,125,Cassava,2008,1014,IITA
+BDI,Burundi,BDI005,Cibitoke,1,125,Cassava,2008,6597,IITA
+BDI,Burundi,BDI006,Gitega,1,125,Cassava,2008,9680,IITA
+BDI,Burundi,BDI007,Karuzi,1,125,Cassava,2008,3509,IITA
+BDI,Burundi,BDI008,Kayanza,1,125,Cassava,2008,4595,IITA
+BDI,Burundi,BDI009,Kirundo,1,125,Cassava,2008,,IITA
+BDI,Burundi,BDI010,Makamba,1,125,Cassava,2008,3202,IITA
+BDI,Burundi,BDI011,Muramviya,1,125,Cassava,2008,3656,IITA
+BDI,Burundi,BDI012,Muyinga,1,125,Cassava,2008,5059,IITA
+BDI,Burundi,BDI013,Ngozi,1,125,Cassava,2008,5507,IITA
+BDI,Burundi,BDI014,Rutana,1,125,Cassava,2008,2250,IITA
+BDI,Burundi,BDI015,Ruyigi,1,125,Cassava,2008,1830,IITA
+CMR,Cameroon,CMR001,Adamoua,1,125,Cassava,Most recent,,AgroMapsAdm1
+CMR,Cameroon,CMR002,Centre,1,125,Cassava,Most recent,,AgroMapsAdm1
+CMR,Cameroon,CMR003,Est,1,125,Cassava,Most recent,,AgroMapsAdm1
+CMR,Cameroon,CMR004,Extreme-Nord,1,125,Cassava,Most recent,,AgroMapsAdm1
+CMR,Cameroon,CMR005,Littoral,1,125,Cassava,Most recent,,AgroMapsAdm1
+CMR,Cameroon,CMR006,Nord,1,125,Cassava,Most recent,,AgroMapsAdm1
+CMR,Cameroon,CMR007,Nord-Ouest,1,125,Cassava,Most recent,,AgroMapsAdm1
+CMR,Cameroon,CMR008,Ouest,1,125,Cassava,Most recent,,AgroMapsAdm1
+CMR,Cameroon,CMR009,Sud,1,125,Cassava,Most recent,,AgroMapsAdm1
+CMR,Cameroon,CMR010,Sud-Ouest,1,125,Cassava,Most recent,,AgroMapsAdm1
+CAF,Central African Republic,CAF001,Bamingui-Bangora,1,125,Cassava,2008,2141,IITA
+CAF,Central African Republic,CAF003,Basse-Kotto,1,125,Cassava,2008,14726,IITA
+CAF,Central African Republic,CAF004,Haut-Mbomou,1,125,Cassava,2008,6336,IITA
+CAF,Central African Republic,CAF005,Haute-Kotto,1,125,Cassava,2008,2537,IITA
+CAF,Central African Republic,CAF006,Kemo,1,125,Cassava,2008,16505,IITA
+CAF,Central African Republic,CAF007,Lobaye,1,125,Cassava,2008,8645,IITA
+CAF,Central African Republic,CAF008,Mambere-Kadei,1,125,Cassava,2008,11376,IITA
+CAF,Central African Republic,CAF009,Mbomou,1,125,Cassava,2008,2537,IITA
+CAF,Central African Republic,CAF010,Nana-Gribingui,1,125,Cassava,2008,6617,IITA
+CAF,Central African Republic,CAF011,Nana-Mambere,1,125,Cassava,2008,15135,IITA
+CAF,Central African Republic,CAF012,Ombella-Mpoko,1,125,Cassava,2008,40944,IITA
+CAF,Central African Republic,CAF013,Ouaka,1,125,Cassava,2008,25204,IITA
+CAF,Central African Republic,CAF014,Ouham,1,125,Cassava,2008,5621,IITA
+CAF,Central African Republic,CAF015,Ouham-Pende,1,125,Cassava,2008,33176,IITA
+CAF,Central African Republic,CAF016,Sangha,1,125,Cassava,2008,5000,IITA
+CAF,Central African Republic,CAF017,Vakaga,1,125,Cassava,2008,1500,IITA
+COG,Congo,COG001,Bouenza,1,125,Cassava,2008,30631,IITA
+COG,Congo,COG002,Cuvette,1,125,Cassava,2008,12031,IITA
+COG,Congo,COG004,Lekoumou,1,125,Cassava,2008,5680,IITA
+COG,Congo,COG006,Niari,1,125,Cassava,2008,11415,IITA
+COG,Congo,COG007,Plateaux,1,125,Cassava,2008,,IITA
+COG,Congo,COG008,Pool,1,125,Cassava,2008,50242,IITA
+COG,Congo,COG009,Sangha,1,125,Cassava,2008,,IITA
+COD,"Congo,  Dem Republic of",COD001,Bandundu,1,125,Cassava,2008,384752,IITA
+COD,"Congo,  Dem Republic of",COD002,Bas-Zaire,1,125,Cassava,2008,151083,IITA
+COD,"Congo,  Dem Republic of",COD003,Equateur,1,125,Cassava,2008,196459,IITA
+COD,"Congo,  Dem Republic of",COD004,Haut-Zaire,1,125,Cassava,2008,258943,IITA
+COD,"Congo,  Dem Republic of",COD005,Kasai-Occidental,1,125,Cassava,2008,130376,IITA
+COD,"Congo,  Dem Republic of",COD006,Kasai-Oriental,1,125,Cassava,2008,145165,IITA
+COD,"Congo,  Dem Republic of",COD007,Kinshasa,1,125,Cassava,2008,2576,IITA
+COD,"Congo,  Dem Republic of",COD008,Kivu,1,125,Cassava,2008,297494,IITA
+COD,"Congo,  Dem Republic of",COD009,Lake Kivu,1,125,Cassava,2008,,IITA
+COD,"Congo,  Dem Republic of",COD010,Lake Mweru,1,125,Cassava,2008,,IITA
+COD,"Congo,  Dem Republic of",COD011,Shaba,1,125,Cassava,2008,284203,IITA
+CIV,Cote d'Ivoire,CIV051,AGNEBY,1,125,Cassava,Most recent,3398.17,AgroMapsAdm1
+CIV,Cote d'Ivoire,CIV052,BAFING,1,125,Cassava,Most recent,634.51,AgroMapsAdm1
+CIV,Cote d'Ivoire,CIV053,BAS SASSANDRA,1,125,Cassava,Most recent,31446.91,AgroMapsAdm1
+CIV,Cote d'Ivoire,CIV054,DENGUELE,1,125,Cassava,Most recent,8627.56,AgroMapsAdm1
+CIV,Cote d'Ivoire,CIV055,FROMAGER,1,125,Cassava,Most recent,1883.85,AgroMapsAdm1
+CIV,Cote d'Ivoire,CIV056,HAUT SASSANDRA,1,125,Cassava,Most recent,22779.08,AgroMapsAdm1
+CIV,Cote d'Ivoire,CIV057,LACS,1,125,Cassava,Most recent,4439.71,AgroMapsAdm1
+CIV,Cote d'Ivoire,CIV058,LAGUNES,1,125,Cassava,Most recent,42646.06,AgroMapsAdm1
+CIV,Cote d'Ivoire,CIV059,MARAHOUE,1,125,Cassava,Most recent,1253.65,AgroMapsAdm1
+CIV,Cote d'Ivoire,CIV060,MONTAGNES,1,125,Cassava,Most recent,14306.84,AgroMapsAdm1
+CIV,Cote d'Ivoire,CIV061,MOYEN CAVALLY,1,125,Cassava,Most recent,10544.59,AgroMapsAdm1
+CIV,Cote d'Ivoire,CIV062,MOYEN COMOE,1,125,Cassava,Most recent,2851.03,AgroMapsAdm1
+CIV,Cote d'Ivoire,CIV063,N'ZI COMOE,1,125,Cassava,Most recent,3462.17,AgroMapsAdm1
+CIV,Cote d'Ivoire,CIV064,SAVANES,1,125,Cassava,Most recent,10576.67,AgroMapsAdm1
+CIV,Cote d'Ivoire,CIV065,SUD BANDAMA,1,125,Cassava,Most recent,12865.25,AgroMapsAdm1
+CIV,Cote d'Ivoire,CIV066,SUD COMOE,1,125,Cassava,Most recent,54178.17,AgroMapsAdm1
+CIV,Cote d'Ivoire,CIV067,VAL DU BANDAMA,1,125,Cassava,Most recent,66821.6,AgroMapsAdm1
+CIV,Cote d'Ivoire,CIV068,WORODOUGOU,1,125,Cassava,Most recent,2962.8,AgroMapsAdm1
+CIV,Cote d'Ivoire,CIV069,ZANZAN,1,125,Cassava,Most recent,24272.78,AgroMapsAdm1
+GMB,Gambia,GMB002,Lower River,1,125,Cassava,Most recent,,AgroMapsAdm1
+GMB,Gambia,GMB003,Maccarthy Island,1,125,Cassava,Most recent,,AgroMapsAdm1
+GMB,Gambia,GMB004,North Bank,1,125,Cassava,Most recent,,AgroMapsAdm1
+GMB,Gambia,GMB005,Upper River,1,125,Cassava,Most recent,,AgroMapsAdm1
+GMB,Gambia,GMB006,Western,1,125,Cassava,Most recent,,AgroMapsAdm1
+GHA,Ghana,GHA001,Ashanti,1,125,Cassava,Most recent,121540.5136,AgroMapsAdm1
+GHA,Ghana,GHA002,Brong Ahafo,1,125,Cassava,Most recent,184903,AgroMapsAdm1
+GHA,Ghana,GHA003,Central,1,125,Cassava,Most recent,122274.86,AgroMapsAdm1
+GHA,Ghana,GHA004,Eastern,1,125,Cassava,Most recent,186165,AgroMapsAdm1
+GHA,Ghana,GHA005,Greater Accra,1,125,Cassava,Most recent,6741.5,AgroMapsAdm1
+GHA,Ghana,GHA006,Lake Volta,1,125,Cassava,Most recent,54940,AgroMapsAdm1
+GHA,Ghana,GHA007,Northern,1,125,Cassava,Most recent,89320,AgroMapsAdm1
+GHA,Ghana,GHA008,Upper East,1,125,Cassava,Most recent,,AgroMapsAdm1
+GHA,Ghana,GHA009,Upper West,1,125,Cassava,Most recent,,AgroMapsAdm1
+GHA,Ghana,GHA010,Volta,1,125,Cassava,Most recent,105169,AgroMapsAdm1
+GHA,Ghana,GHA011,Western,1,125,Cassava,Most recent,73250,AgroMapsAdm1
+GIN,Guinea,GIN002,Conakry,1,125,Cassava,Most recent,15159,AgroMapsAdm1
+GIN,Guinea,GIN004,Kankan,1,125,Cassava,Most recent,1699,AgroMapsAdm1
+GIN,Guinea,GIN008,NZerekore,1,125,Cassava,Most recent,790,AgroMapsAdm1
+GNB,Guinea-Bissau,GNB001,Bafata,1,125,Cassava,Most recent,1226,IITA
+GNB,Guinea-Bissau,GNB002,Biombo,1,125,Cassava,Most recent,1304,IITA
+GNB,Guinea-Bissau,GNB003,Bissau,1,125,Cassava,Most recent,,IITA
+GNB,Guinea-Bissau,GNB004,Bolama,1,125,Cassava,Most recent,,IITA
+GNB,Guinea-Bissau,GNB005,Cacheu,1,125,Cassava,Most recent,209,IITA
+GNB,Guinea-Bissau,GNB006,Gabu,1,125,Cassava,Most recent,835,IITA
+GNB,Guinea-Bissau,GNB007,Oio,1,125,Cassava,Most recent,1226,IITA
+GNB,Guinea-Bissau,GNB008,Quinara,1,125,Cassava,Most recent,,IITA
+GNB,Guinea-Bissau,GNB009,Tombali,1,125,Cassava,Most recent,,IITA
+KEN,Kenya,KEN001,CENTRAL,1,125,Cassava,Most recent,999,AgroMapsAdm1
+KEN,Kenya,KEN002,COAST,1,125,Cassava,Most recent,10745,AgroMapsAdm1
+KEN,Kenya,KEN003,EASTERN,1,125,Cassava,Most recent,8101,AgroMapsAdm1
+KEN,Kenya,KEN004,N. EASTERN,1,125,Cassava,Most recent,999,AgroMapsAdm1
+KEN,Kenya,KEN005,NAIROBI,1,125,Cassava,Most recent,11,AgroMapsAdm1
+KEN,Kenya,KEN006,NYANZA,1,125,Cassava,Most recent,18010,AgroMapsAdm1
+KEN,Kenya,KEN007,RIFT VALLEY,1,125,Cassava,Most recent,662,AgroMapsAdm1
+KEN,Kenya,KEN008,WESTERN,1,125,Cassava,Most recent,17144,AgroMapsAdm1
+LBR,Liberia,LBR001,Bomi Terr.,1,125,Cassava,2008,1617,IITA
+LBR,Liberia,LBR002,Bong,1,125,Cassava,2008,11449,IITA
+LBR,Liberia,LBR003,Grand Bassa,1,125,Cassava,2008,11627,IITA
+LBR,Liberia,LBR004,Grand Cape Mount,1,125,Cassava,2008,4367,IITA
+LBR,Liberia,LBR005,Grand Gedeh,1,125,Cassava,2008,1941,IITA
+LBR,Liberia,LBR006,Kru Coast Terr.,1,125,Cassava,2008,4205,IITA
+LBR,Liberia,LBR007,Lofa,1,125,Cassava,2008,6468,IITA
+LBR,Liberia,LBR008,Marshall Terr.,1,125,Cassava,2008,5109,IITA
+LBR,Liberia,LBR009,Maryland,1,125,Cassava,2008,3963,IITA
+LBR,Liberia,LBR010,Montserrado,1,125,Cassava,2008,11325,IITA
+LBR,Liberia,LBR011,Nimba,1,125,Cassava,2008,18632,IITA
+LBR,Liberia,LBR012,Rivercess Terr.,1,125,Cassava,2008,3014,IITA
+LBR,Liberia,LBR014,Sinoe,1,125,Cassava,2008,3284,IITA
+MDG,Madagascar,MDG001,Antananarivo,1,125,Cassava,Most recent,80617,AgroMapsAdm1
+MDG,Madagascar,MDG002,Antsiranana,1,125,Cassava,Most recent,10117,AgroMapsAdm1
+MDG,Madagascar,MDG003,Fianarantsoa,1,125,Cassava,Most recent,105132,AgroMapsAdm1
+MDG,Madagascar,MDG004,Mahajanga,1,125,Cassava,Most recent,21600,AgroMapsAdm1
+MDG,Madagascar,MDG005,Toamasina,1,125,Cassava,Most recent,51802,AgroMapsAdm1
+MDG,Madagascar,MDG006,Toliary,1,125,Cassava,Most recent,119511,AgroMapsAdm1
+MWI,Malawi,MWI001,Central,1,125,Cassava,Most recent,73070,AgroMapsAdm1
+MWI,Malawi,MWI002,Northern,1,125,Cassava,Most recent,31222,AgroMapsAdm1
+MWI,Malawi,MWI003,Southern,1,125,Cassava,Most recent,58071,AgroMapsAdm1
+MLI,Mali,MLI002,Kayes,1,125,Cassava,2008,139,IITA
+MLI,Mali,MLI004,Koulikoro,1,125,Cassava,2008,1605,IITA
+MLI,Mali,MLI005,Mopti,1,125,Cassava,2008,19,IITA
+MLI,Mali,MLI006,Segou,1,125,Cassava,2008,1150,IITA
+MLI,Mali,MLI007,Sikasso,1,125,Cassava,2008,2966,IITA
+MLI,Mali,MLI008,Tombouctou,1,125,Cassava,2008,120,IITA
+MOZ,Mozambique,MOZ001,Cabo Delgado,1,125,Cassava,Most recent,,AgroMapsAdm1
+MOZ,Mozambique,MOZ002,Gaza,1,125,Cassava,Most recent,41900,AgroMapsAdm1
+MOZ,Mozambique,MOZ003,Inhambane,1,125,Cassava,Most recent,82100,AgroMapsAdm1
+MOZ,Mozambique,MOZ004,Manica,1,125,Cassava,Most recent,9200,AgroMapsAdm1
+MOZ,Mozambique,MOZ005,Maputo,1,125,Cassava,Most recent,12500,AgroMapsAdm1
+MOZ,Mozambique,MOZ006,Nampula,1,125,Cassava,Most recent,344900,AgroMapsAdm1
+MOZ,Mozambique,MOZ007,Nassa,1,125,Cassava,Most recent,37900,AgroMapsAdm1
+MOZ,Mozambique,MOZ008,Sofala,1,125,Cassava,Most recent,17300,AgroMapsAdm1
+MOZ,Mozambique,MOZ009,Tete,1,125,Cassava,Most recent,5200,AgroMapsAdm1
+MOZ,Mozambique,MOZ010,Zambezia,1,125,Cassava,Most recent,289000,AgroMapsAdm1
+NGA,Nigeria,NGA001,Abia,1,125,Cassava,2007,35550,IITA
+NGA,Nigeria,NGA002,Adamawa,1,125,Cassava,2007,1900,IITA
+NGA,Nigeria,NGA003,Akwa Ibom,1,125,Cassava,2007,154350,IITA
+NGA,Nigeria,NGA004,Anambra,1,125,Cassava,2007,103180,IITA
+NGA,Nigeria,NGA005,Bauchi,1,125,Cassava,2007,1840,IITA
+NGA,Nigeria,NGA006,Bayelsa,1,125,Cassava,2007,29130,IITA
+NGA,Nigeria,NGA007,Benue,1,125,Cassava,2007,271170,IITA
+NGA,Nigeria,NGA008,Borno,1,125,Cassava,2007,800,IITA
+NGA,Nigeria,NGA009,Cross River,1,125,Cassava,2007,263220,IITA
+NGA,Nigeria,NGA010,Delta,1,125,Cassava,2007,100100,IITA
+NGA,Nigeria,NGA011,Ebonyi,1,125,Cassava,2007,59130,IITA
+NGA,Nigeria,NGA012,Edo,1,125,Cassava,2007,65500,IITA
+NGA,Nigeria,NGA013,Ekiti,1,125,Cassava,2007,67800,IITA
+NGA,Nigeria,NGA014,Enugu,1,125,Cassava,2007,238470,IITA
+NGA,Nigeria,NGA015,"FCT, Abuja",1,125,Cassava,2007,3990,IITA
+NGA,Nigeria,NGA016,Gombe,1,125,Cassava,2007,3670,IITA
+NGA,Nigeria,NGA017,Imo,1,125,Cassava,2007,219510,IITA
+NGA,Nigeria,NGA018,Jigawa,1,125,Cassava,2007,,IITA
+NGA,Nigeria,NGA019,Kaduna,1,125,Cassava,2007,187880,IITA
+NGA,Nigeria,NGA020,Kano,1,125,Cassava,2007,2840,IITA
+NGA,Nigeria,NGA021,Katsina,1,125,Cassava,2007,11130,IITA
+NGA,Nigeria,NGA022,Kebbi,1,125,Cassava,2007,61320,IITA
+NGA,Nigeria,NGA023,Kogi,1,125,Cassava,2007,243960,IITA
+NGA,Nigeria,NGA024,Kwara,1,125,Cassava,2007,85410,IITA
+NGA,Nigeria,NGA025,Lagos,1,125,Cassava,2007,52760,IITA
+NGA,Nigeria,NGA026,Nassarawa,1,125,Cassava,2007,61080,IITA
+NGA,Nigeria,NGA027,Niger,1,125,Cassava,2007,71040,IITA
+NGA,Nigeria,NGA028,Ogun,1,125,Cassava,2007,124100,IITA
+NGA,Nigeria,NGA029,Ondo,1,125,Cassava,2007,107730,IITA
+NGA,Nigeria,NGA030,Osun,1,125,Cassava,2007,46570,IITA
+NGA,Nigeria,NGA031,Oyo,1,125,Cassava,2007,143800,IITA
+NGA,Nigeria,NGA032,Plateau,1,125,Cassava,2007,29450,IITA
+NGA,Nigeria,NGA033,Rivers,1,125,Cassava,2007,150300,IITA
+NGA,Nigeria,NGA034,Sokoto,1,125,Cassava,2007,3640,IITA
+NGA,Nigeria,NGA035,Taraba,1,125,Cassava,2007,253780,IITA
+NGA,Nigeria,NGA036,Yobe,1,125,Cassava,2007,5280,IITA
+NGA,Nigeria,NGA037,Zamfara,1,125,Cassava,2007,,IITA
+RWA,Rwanda,RWA001,Butare,1,125,Cassava,Most recent,14500,AgroMapsAdm1
+RWA,Rwanda,RWA002,Byumba,1,125,Cassava,Most recent,4113,AgroMapsAdm1
+RWA,Rwanda,RWA003,Cyangugu,1,125,Cassava,Most recent,10920,AgroMapsAdm1
+RWA,Rwanda,RWA004,Gikongoro,1,125,Cassava,Most recent,5400,AgroMapsAdm1
+RWA,Rwanda,RWA005,Gisenyi,1,125,Cassava,Most recent,4900,AgroMapsAdm1
+RWA,Rwanda,RWA006,Gitarama,1,125,Cassava,Most recent,26880,AgroMapsAdm1
+RWA,Rwanda,RWA007,Kibungo,1,125,Cassava,Most recent,13600,AgroMapsAdm1
+RWA,Rwanda,RWA008,Kibuye,1,125,Cassava,Most recent,6660,AgroMapsAdm1
+RWA,Rwanda,RWA009,Kigali-ngali,1,125,Cassava,Most recent,18900,AgroMapsAdm1
+RWA,Rwanda,RWA011,Ruhengeri,1,125,Cassava,Most recent,3890,AgroMapsAdm1
+RWA,Rwanda,RWA012,Umutara,1,125,Cassava,Most recent,10700,AgroMapsAdm1
+STP,Sao Tome and Principe,STP001,Principe,1,125,Cassava,Most recent,115,AgroMapsAdm1
+STP,Sao Tome and Principe,STP002,Sao Tome,1,125,Cassava,Most recent,390,AgroMapsAdm1
+SEN,Senegal,SEN001,Dakar,1,125,Cassava,Most recent,148,AgroMapsAdm1
+SEN,Senegal,SEN002,Diourbel,1,125,Cassava,Most recent,431,AgroMapsAdm1
+SEN,Senegal,SEN003,Fatick,1,125,Cassava,Most recent,570,AgroMapsAdm1
+SEN,Senegal,SEN004,Kaolack,1,125,Cassava,Most recent,455,AgroMapsAdm1
+SEN,Senegal,SEN005,Kolda,1,125,Cassava,Most recent,2530,AgroMapsAdm1
+SEN,Senegal,SEN006,Louga,1,125,Cassava,Most recent,91,AgroMapsAdm1
+SEN,Senegal,SEN007,Saint Louis,1,125,Cassava,Most recent,67,AgroMapsAdm1
+SEN,Senegal,SEN008,Tambacounda,1,125,Cassava,Most recent,40,AgroMapsAdm1
+SEN,Senegal,SEN009,Thies,1,125,Cassava,Most recent,54422,AgroMapsAdm1
+SEN,Senegal,SEN010,Ziguinchor,1,125,Cassava,Most recent,153,AgroMapsAdm1
+SLE,Sierra Leone,SLE001,Eastern,1,125,Cassava,Most recent,,AgroMapsAdm1
+SLE,Sierra Leone,SLE002,Northern,1,125,Cassava,Most recent,,AgroMapsAdm1
+SLE,Sierra Leone,SLE003,Southern,1,125,Cassava,Most recent,,AgroMapsAdm1
+SLE,Sierra Leone,SLE004,Western,1,125,Cassava,Most recent,,AgroMapsAdm1
+SWZ,Swaziland,SWZ001,Hhohho,1,125,Cassava,Most recent,3,AgroMapsAdm1
+SWZ,Swaziland,SWZ002,Lubombo,1,125,Cassava,Most recent,12,AgroMapsAdm1
+SWZ,Swaziland,SWZ003,Manzini,1,125,Cassava,Most recent,3,AgroMapsAdm1
+SWZ,Swaziland,SWZ004,Shiselweni,1,125,Cassava,Most recent,0,AgroMapsAdm1
+TGO,Togo,TGO001,Centre,1,125,Cassava,Most recent,,AgroMapsAdm1
+TGO,Togo,TGO002,Kara,1,125,Cassava,Most recent,,AgroMapsAdm1
+TGO,Togo,TGO003,Maritime,1,125,Cassava,Most recent,,AgroMapsAdm1
+TGO,Togo,TGO004,Plateaux,1,125,Cassava,Most recent,,AgroMapsAdm1
+TGO,Togo,TGO005,Savanes,1,125,Cassava,Most recent,,AgroMapsAdm1
+UGA,Uganda,UGA091,ABIM,1,125,Cassava,Most recent,163,AgroMapsAdm1
+UGA,Uganda,UGA001,ADJUMANI,1,125,Cassava,Most recent,8648,AgroMapsAdm1
+UGA,Uganda,UGA067,AMOLATAR,1,125,Cassava,Most recent,7865,AgroMapsAdm1
+UGA,Uganda,UGA068,AMURIA,1,125,Cassava,Most recent,15641,AgroMapsAdm1
+UGA,Uganda,UGA092,AMURU,1,125,Cassava,Most recent,7992,AgroMapsAdm1
+UGA,Uganda,UGA093,APAC,1,125,Cassava,Most recent,42836,AgroMapsAdm1
+UGA,Uganda,UGA094,ARUA,1,125,Cassava,Most recent,28326,AgroMapsAdm1
+UGA,Uganda,UGA095,BUDAKA,1,125,Cassava,Most recent,11849,AgroMapsAdm1
+UGA,Uganda,UGA096,BUDUDA,1,125,Cassava,Most recent,1135,AgroMapsAdm1
+UGA,Uganda,UGA004,BUGIRI,1,125,Cassava,Most recent,25568,AgroMapsAdm1
+UGA,Uganda,UGA097,BUKEDEA,1,125,Cassava,Most recent,9441,AgroMapsAdm1
+UGA,Uganda,UGA070,BUKWO,1,125,Cassava,Most recent,50,AgroMapsAdm1
+UGA,Uganda,UGA098,BULIISA,1,125,Cassava,Most recent,5596,AgroMapsAdm1
+UGA,Uganda,UGA005,BUNDIBUGYO,1,125,Cassava,Most recent,7784,AgroMapsAdm1
+UGA,Uganda,UGA006,BUSHENYI,1,125,Cassava,Most recent,9081,AgroMapsAdm1
+UGA,Uganda,UGA007,BUSIA,1,125,Cassava,Most recent,15137,AgroMapsAdm1
+UGA,Uganda,UGA071,BUTALEJA,1,125,Cassava,Most recent,11368,AgroMapsAdm1
+UGA,Uganda,UGA099,DOKOLO,1,125,Cassava,Most recent,8918,AgroMapsAdm1
+UGA,Uganda,UGA100,GULU,1,125,Cassava,Most recent,10964,AgroMapsAdm1
+UGA,Uganda,UGA009,HOIMA,1,125,Cassava,Most recent,14552,AgroMapsAdm1
+UGA,Uganda,UGA072,IBANDA,1,125,Cassava,Most recent,2360,AgroMapsAdm1
+UGA,Uganda,UGA101,IGANGA,1,125,Cassava,Most recent,14350,AgroMapsAdm1
+UGA,Uganda,UGA073,ISINGIRO,1,125,Cassava,Most recent,1392,AgroMapsAdm1
+UGA,Uganda,UGA011,JINJA,1,125,Cassava,Most recent,5096,AgroMapsAdm1
+UGA,Uganda,UGA074,KAABONG,1,125,Cassava,Most recent,700,AgroMapsAdm1
+UGA,Uganda,UGA012,KABALE,1,125,Cassava,Most recent,95,AgroMapsAdm1
+UGA,Uganda,UGA048,KABAROLE,1,125,Cassava,Most recent,7322,AgroMapsAdm1
+UGA,Uganda,UGA061,KABERAMAIDO,1,125,Cassava,Most recent,10982,AgroMapsAdm1
+UGA,Uganda,UGA014,KALANGALA,1,125,Cassava,Most recent,1111,AgroMapsAdm1
+UGA,Uganda,UGA075,KALIRO,1,125,Cassava,Most recent,10070,AgroMapsAdm1
+UGA,Uganda,UGA015,KAMPALA,1,125,Cassava,Most recent,184,AgroMapsAdm1
+UGA,Uganda,UGA076,KAMULI,1,125,Cassava,Most recent,41136,AgroMapsAdm1
+UGA,Uganda,UGA049,KAMWENGE,1,125,Cassava,Most recent,4879,AgroMapsAdm1
+UGA,Uganda,UGA062,KANUNGU,1,125,Cassava,Most recent,1523,AgroMapsAdm1
+UGA,Uganda,UGA077,KAPCHORWA,1,125,Cassava,Most recent,413,AgroMapsAdm1
+UGA,Uganda,UGA018,KASESE,1,125,Cassava,Most recent,15855,AgroMapsAdm1
+UGA,Uganda,UGA078,KATAKWI,1,125,Cassava,Most recent,12051,AgroMapsAdm1
+UGA,Uganda,UGA050,KAYUNGA,1,125,Cassava,Most recent,14386,AgroMapsAdm1
+UGA,Uganda,UGA020,KIBAALE,1,125,Cassava,Most recent,13687,AgroMapsAdm1
+UGA,Uganda,UGA021,KIBOGA,1,125,Cassava,Most recent,8294,AgroMapsAdm1
+UGA,Uganda,UGA079,KIRUHURA,1,125,Cassava,Most recent,1375,AgroMapsAdm1
+UGA,Uganda,UGA022,KISORO,1,125,Cassava,Most recent,238,AgroMapsAdm1
+UGA,Uganda,UGA051,KITGUM,1,125,Cassava,Most recent,6747,AgroMapsAdm1
+UGA,Uganda,UGA080,KOBOKO,1,125,Cassava,Most recent,6930,AgroMapsAdm1
+UGA,Uganda,UGA102,KOTIDO,1,125,Cassava,Most recent,0,AgroMapsAdm1
+UGA,Uganda,UGA103,KUMI,1,125,Cassava,Most recent,18082,AgroMapsAdm1
+UGA,Uganda,UGA052,KYENJOJO,1,125,Cassava,Most recent,17885,AgroMapsAdm1
+UGA,Uganda,UGA104,LIRA,1,125,Cassava,Most recent,17417,AgroMapsAdm1
+UGA,Uganda,UGA083,LUWERO,1,125,Cassava,Most recent,11638,AgroMapsAdm1
+UGA,Uganda,UGA105,LYANTONDE,1,125,Cassava,Most recent,1037,AgroMapsAdm1
+UGA,Uganda,UGA084,MANAFWA,1,125,Cassava,Most recent,2956,AgroMapsAdm1
+UGA,Uganda,UGA028,MASAKA,1,125,Cassava,Most recent,7720,AgroMapsAdm1
+UGA,Uganda,UGA106,MASINDI,1,125,Cassava,Most recent,21082,AgroMapsAdm1
+UGA,Uganda,UGA053,MAYUGE,1,125,Cassava,Most recent,10287,AgroMapsAdm1
+UGA,Uganda,UGA107,MBALE,1,125,Cassava,Most recent,4710,AgroMapsAdm1
+UGA,Uganda,UGA086,MBARARA,1,125,Cassava,Most recent,1032,AgroMapsAdm1
+UGA,Uganda,UGA087,MITYANA,1,125,Cassava,Most recent,10104,AgroMapsAdm1
+UGA,Uganda,UGA063,MOROTO,1,125,Cassava,Most recent,0,AgroMapsAdm1
+UGA,Uganda,UGA033,MOYO,1,125,Cassava,Most recent,5367,AgroMapsAdm1
+UGA,Uganda,UGA055,MPIGI,1,125,Cassava,Most recent,13080,AgroMapsAdm1
+UGA,Uganda,UGA088,MUBENDE,1,125,Cassava,Most recent,12603,AgroMapsAdm1
+UGA,Uganda,UGA056,MUKONO,1,125,Cassava,Most recent,15430,AgroMapsAdm1
+UGA,Uganda,UGA064,NAKAPIRIPIRIT,1,125,Cassava,Most recent,287,AgroMapsAdm1
+UGA,Uganda,UGA089,NAKASEKE,1,125,Cassava,Most recent,4696,AgroMapsAdm1
+UGA,Uganda,UGA037,NAKASONGOLA,1,125,Cassava,Most recent,10346,AgroMapsAdm1
+UGA,Uganda,UGA108,NAMUTUMBA,1,125,Cassava,Most recent,12869,AgroMapsAdm1
+UGA,Uganda,UGA038,NEBBI,1,125,Cassava,Most recent,45342,AgroMapsAdm1
+UGA,Uganda,UGA039,NTUNGAMO,1,125,Cassava,Most recent,4117,AgroMapsAdm1
+UGA,Uganda,UGA110,OYAM,1,125,Cassava,Most recent,20083,AgroMapsAdm1
+UGA,Uganda,UGA057,PADER,1,125,Cassava,Most recent,6442,AgroMapsAdm1
+UGA,Uganda,UGA111,PALLISA,1,125,Cassava,Most recent,48738,AgroMapsAdm1
+UGA,Uganda,UGA112,RAKAI,1,125,Cassava,Most recent,3396,AgroMapsAdm1
+UGA,Uganda,UGA065,RUKUNGIRI,1,125,Cassava,Most recent,1472,AgroMapsAdm1
+UGA,Uganda,UGA058,SIRONKO,1,125,Cassava,Most recent,2213,AgroMapsAdm1
+UGA,Uganda,UGA066,SOROTI,1,125,Cassava,Most recent,30951,AgroMapsAdm1
+UGA,Uganda,UGA043,SSEMBABULE,1,125,Cassava,Most recent,2385,AgroMapsAdm1
+UGA,Uganda,UGA090,TORORO,1,125,Cassava,Most recent,27294,AgroMapsAdm1
+UGA,Uganda,UGA059,WAKISO,1,125,Cassava,Most recent,11378,AgroMapsAdm1
+UGA,Uganda,UGA060,YUMBE,1,125,Cassava,Most recent,19773,AgroMapsAdm1
+TZA,United Republic of Tanzania,TZA001,Arusha,1,125,Cassava,2008,17605,IITA
+TZA,United Republic of Tanzania,TZA002,Dar-Es-Salaam,1,125,Cassava,2008,16835,IITA
+TZA,United Republic of Tanzania,TZA003,Dodoma,1,125,Cassava,2008,73270,IITA
+TZA,United Republic of Tanzania,TZA004,Iringa,1,125,Cassava,2008,1107,IITA
+TZA,United Republic of Tanzania,TZA005,Kagera,1,125,Cassava,2008,130971,IITA
+TZA,United Republic of Tanzania,TZA008,Kigoma,1,125,Cassava,2008,56094,IITA
+TZA,United Republic of Tanzania,TZA009,Kilimanjaro,1,125,Cassava,2008,4412,IITA
+TZA,United Republic of Tanzania,TZA012,L. Victoria,1,125,Cassava,2008,81400,IITA
+TZA,United Republic of Tanzania,TZA013,Lindi,1,125,Cassava,2008,9730,IITA
+TZA,United Republic of Tanzania,TZA014,Mara,1,125,Cassava,2008,54229,IITA
+TZA,United Republic of Tanzania,TZA015,Mbeya,1,125,Cassava,2008,11360,IITA
+TZA,United Republic of Tanzania,TZA017,Morogoro,1,125,Cassava,2008,46949,IITA
+TZA,United Republic of Tanzania,TZA018,Mtwara,1,125,Cassava,2008,222227,IITA
+TZA,United Republic of Tanzania,TZA019,Mwanza,1,125,Cassava,2008,66675,IITA
+TZA,United Republic of Tanzania,TZA021,Rukwa,1,125,Cassava,2008,9449,IITA
+TZA,United Republic of Tanzania,TZA022,Ruvuma,1,125,Cassava,2008,24927,IITA
+TZA,United Republic of Tanzania,TZA023,Shinyanga,1,125,Cassava,2008,33669,IITA
+TZA,United Republic of Tanzania,TZA024,Singida,1,125,Cassava,2008,48982,IITA
+TZA,United Republic of Tanzania,TZA025,Tabora,1,125,Cassava,2008,37820,IITA
+TZA,United Republic of Tanzania,TZA026,Tanga,1,125,Cassava,2008,3501,IITA
+ZMB,Zambia,ZMB001,Central,1,125,Cassava,2008,9553,IITA
+ZMB,Zambia,ZMB002,Copperbelt,1,125,Cassava,2008,2335,IITA
+ZMB,Zambia,ZMB003,Eastern,1,125,Cassava,2008,3609,IITA
+ZMB,Zambia,ZMB004,Lake Mweru,1,125,Cassava,2008,,IITA
+ZMB,Zambia,ZMB005,Luapula,1,125,Cassava,2008,53356,IITA
+ZMB,Zambia,ZMB006,Lusaka,1,125,Cassava,2008,,IITA
+ZMB,Zambia,ZMB007,North Western,1,125,Cassava,2008,31844,IITA
+ZMB,Zambia,ZMB008,Northern,1,125,Cassava,2008,83288,IITA
+ZMB,Zambia,ZMB009,Southern,1,125,Cassava,2008,0,IITA
+ZMB,Zambia,ZMB010,Western,1,125,Cassava,2008,24075,IITA
+KHM,Cambodia,KHM001,Banteay Meanchey,1,125,Cassava,Most recent,,AgroMapsAdm1
+KHM,Cambodia,KHM002,Battambang,1,125,Cassava,Most recent,1655,AgroMapsAdm1
+KHM,Cambodia,KHM003,Kampong Cham,1,125,Cassava,Most recent,20430,AgroMapsAdm1
+KHM,Cambodia,KHM004,Kampong Chhnang,1,125,Cassava,Most recent,521,AgroMapsAdm1
+KHM,Cambodia,KHM005,Kampong Speu,1,125,Cassava,Most recent,92,AgroMapsAdm1
+KHM,Cambodia,KHM006,Kampong Thom,1,125,Cassava,Most recent,591,AgroMapsAdm1
+KHM,Cambodia,KHM007,Kampot,1,125,Cassava,Most recent,546,AgroMapsAdm1
+KHM,Cambodia,KHM008,Kandal,1,125,Cassava,Most recent,114,AgroMapsAdm1
+KHM,Cambodia,KHM009,Kep,1,125,Cassava,Most recent,71,AgroMapsAdm1
+KHM,Cambodia,KHM010,Koh Kong,1,125,Cassava,Most recent,127,AgroMapsAdm1
+KHM,Cambodia,KHM011,Kratie,1,125,Cassava,Most recent,866,AgroMapsAdm1
+KHM,Cambodia,KHM012,Mondul Kiri,1,125,Cassava,Most recent,108,AgroMapsAdm1
+KHM,Cambodia,KHM013,Oddar Meanchey,1,125,Cassava,Most recent,132,AgroMapsAdm1
+KHM,Cambodia,KHM014,Pailin,1,125,Cassava,Most recent,50,AgroMapsAdm1
+KHM,Cambodia,KHM015,Phnom Penh,1,125,Cassava,Most recent,24,AgroMapsAdm1
+KHM,Cambodia,KHM016,Preah Vihear,1,125,Cassava,Most recent,63,AgroMapsAdm1
+KHM,Cambodia,KHM017,Prey Veng,1,125,Cassava,Most recent,121,AgroMapsAdm1
+KHM,Cambodia,KHM018,Pursat,1,125,Cassava,Most recent,413,AgroMapsAdm1
+KHM,Cambodia,KHM019,Ratanak Kiri,1,125,Cassava,Most recent,255,AgroMapsAdm1
+KHM,Cambodia,KHM020,Siemreap,1,125,Cassava,Most recent,1141,AgroMapsAdm1
+KHM,Cambodia,KHM021,Sihanoukville,1,125,Cassava,Most recent,18,AgroMapsAdm1
+KHM,Cambodia,KHM022,Stung Treng,1,125,Cassava,Most recent,294,AgroMapsAdm1
+KHM,Cambodia,KHM023,Svay Rieng,1,125,Cassava,Most recent,613,AgroMapsAdm1
+KHM,Cambodia,KHM024,Takeo,1,125,Cassava,Most recent,610,AgroMapsAdm1
+IDN,Indonesia,IDN001,Aceh,1,125,Cassava,Most recent,5002,AgroMapsAdm1
+IDN,Indonesia,1513,Bali,1,125,Cassava,Most recent,11088,AgroMapsAdm1
+IDN,Indonesia,IDN002,Bali,1,125,Cassava,Most recent,12886,AgroMapsAdm1
+IDN,Indonesia,73609,Bangka Belitung,1,125,Cassava,Most recent,1635,AgroMapsAdm1
+IDN,Indonesia,73610,Banten,1,125,Cassava,Most recent,7407,AgroMapsAdm1
+IDN,Indonesia,1514,Bengkulu,1,125,Cassava,Most recent,3199,AgroMapsAdm1
+IDN,Indonesia,IDN003,Bengkulu,1,125,Cassava,Most recent,6700,AgroMapsAdm1
+IDN,Indonesia,IDN004,Central Java,1,125,Cassava,Most recent,220409,AgroMapsAdm1
+IDN,Indonesia,IDN005,Central Kalimantan,1,125,Cassava,Most recent,7075,AgroMapsAdm1
+IDN,Indonesia,IDN006,Central Sulawesi,1,125,Cassava,Most recent,3868,AgroMapsAdm1
+IDN,Indonesia,1515,Daerah Istimewa Yogyakarta,1,125,Cassava,Most recent,63275,AgroMapsAdm1
+IDN,Indonesia,1516,Dki Jakarta,1,125,Cassava,Most recent,26,AgroMapsAdm1
+IDN,Indonesia,IDN007,East Java,1,125,Cassava,Most recent,256139,AgroMapsAdm1
+IDN,Indonesia,IDN008,East Kalimantan,1,125,Cassava,Most recent,6179,AgroMapsAdm1
+IDN,Indonesia,IDN009,East Nusa Tenggara,1,125,Cassava,Most recent,75198,AgroMapsAdm1
+IDN,Indonesia,IDN010,East Timor,1,125,Cassava,Most recent,7996,AgroMapsAdm1
+IDN,Indonesia,73611,Gorontalo,1,125,Cassava,Most recent,601,AgroMapsAdm1
+IDN,Indonesia,IDN011,Irian Jaya,1,125,Cassava,Most recent,5442,AgroMapsAdm1
+IDN,Indonesia,IDN012,Jakarta,1,125,Cassava,Most recent,78,AgroMapsAdm1
+IDN,Indonesia,1518,Jambi,1,125,Cassava,Most recent,2881,AgroMapsAdm1
+IDN,Indonesia,IDN013,Jambi,1,125,Cassava,Most recent,4520,AgroMapsAdm1
+IDN,Indonesia,73613,Jawa Barat,1,125,Cassava,Most recent,110827,AgroMapsAdm1
+IDN,Indonesia,1520,Jawa Tengah,1,125,Cassava,Most recent,190851,AgroMapsAdm1
+IDN,Indonesia,1521,Jawa Timur,1,125,Cassava,Most recent,207507,AgroMapsAdm1
+IDN,Indonesia,1522,Kalimantan Barat,1,125,Cassava,Most recent,11524,AgroMapsAdm1
+IDN,Indonesia,1523,Kalimantan Selatan,1,125,Cassava,Most recent,8189,AgroMapsAdm1
+IDN,Indonesia,1524,Kalimantan Tengah,1,125,Cassava,Most recent,6378,AgroMapsAdm1
+IDN,Indonesia,1525,Kalimantan Timur,1,125,Cassava,Most recent,7681,AgroMapsAdm1
+IDN,Indonesia,73614,Kepulauan-riau,1,125,Cassava,Most recent,868,AgroMapsAdm1
+IDN,Indonesia,IDN014,Lampung,1,125,Cassava,Most recent,284103,AgroMapsAdm1
+IDN,Indonesia,1526,Lampung,1,125,Cassava,Most recent,309047,AgroMapsAdm1
+IDN,Indonesia,IDN015,Maluku,1,125,Cassava,Most recent,26350,AgroMapsAdm1
+IDN,Indonesia,73615,Maluku,1,125,Cassava,Most recent,8815,AgroMapsAdm1
+IDN,Indonesia,73616,Maluku Utara,1,125,Cassava,Most recent,8806,AgroMapsAdm1
+IDN,Indonesia,1512,Nangroe Aceh Darussalam,1,125,Cassava,Most recent,3910,AgroMapsAdm1
+IDN,Indonesia,IDN016,North Sulawesi,1,125,Cassava,Most recent,4784,AgroMapsAdm1
+IDN,Indonesia,IDN017,North Sumatera,1,125,Cassava,Most recent,40385,AgroMapsAdm1
+IDN,Indonesia,1528,Nusatenggara Barat,1,125,Cassava,Most recent,6514,AgroMapsAdm1
+IDN,Indonesia,1529,Nusatenggara Timur,1,125,Cassava,Most recent,89154,AgroMapsAdm1
+IDN,Indonesia,73617,Papua,1,125,Cassava,Most recent,3046,AgroMapsAdm1
+IDN,Indonesia,73612,Papua Barat,1,125,Cassava,Most recent,1105,AgroMapsAdm1
+IDN,Indonesia,IDN018,Riau,1,125,Cassava,Most recent,5069,AgroMapsAdm1
+IDN,Indonesia,73618,Riau,1,125,Cassava,Most recent,4379,AgroMapsAdm1
+IDN,Indonesia,IDN019,South Kalimantan,1,125,Cassava,Most recent,7797,AgroMapsAdm1
+IDN,Indonesia,IDN020,South Sulawesi,1,125,Cassava,Most recent,41064,AgroMapsAdm1
+IDN,Indonesia,IDN021,South Sumatera,1,125,Cassava,Most recent,29610,AgroMapsAdm1
+IDN,Indonesia,IDN022,South-East Sulawesi,1,125,Cassava,Most recent,14336,AgroMapsAdm1
+IDN,Indonesia,73619,Sulawesi Barat,1,125,Cassava,Most recent,2852,AgroMapsAdm1
+IDN,Indonesia,73620,Sulawesi Selatan,1,125,Cassava,Most recent,26944,AgroMapsAdm1
+IDN,Indonesia,1532,Sulawesi Tengah,1,125,Cassava,Most recent,4422,AgroMapsAdm1
+IDN,Indonesia,1533,Sulawesi Tenggara,1,125,Cassava,Most recent,12353,AgroMapsAdm1
+IDN,Indonesia,73621,Sulawesi Utara,1,125,Cassava,Most recent,5907,AgroMapsAdm1
+IDN,Indonesia,1535,Sumatera Barat,1,125,Cassava,Most recent,5020,AgroMapsAdm1
+IDN,Indonesia,73622,Sumatera Selatan,1,125,Cassava,Most recent,10844,AgroMapsAdm1
+IDN,Indonesia,1537,Sumatera Utara,1,125,Cassava,Most recent,38611,AgroMapsAdm1
+IDN,Indonesia,IDN023,West Java,1,125,Cassava,Most recent,137269,AgroMapsAdm1
+IDN,Indonesia,IDN024,West Kalimantan,1,125,Cassava,Most recent,13662,AgroMapsAdm1
+IDN,Indonesia,IDN025,West Nusa Tenggara,1,125,Cassava,Most recent,8433,AgroMapsAdm1
+IDN,Indonesia,IDN026,West Sumatera,1,125,Cassava,Most recent,7033,AgroMapsAdm1
+IDN,Indonesia,IDN027,Yogyakarta,1,125,Cassava,Most recent,56549,AgroMapsAdm1
+LAO,Lao People's Democratic Republic,LAO001,Attapeu,1,125,Cassava,Most recent,10,AgroMapsAdm1
+LAO,Lao People's Democratic Republic,LAO002,Bokeo,1,125,Cassava,Most recent,105,AgroMapsAdm1
+LAO,Lao People's Democratic Republic,LAO003,Borikhamxay,1,125,Cassava,Most recent,2850,AgroMapsAdm1
+LAO,Lao People's Democratic Republic,LAO004,Champassak,1,125,Cassava,Most recent,645,AgroMapsAdm1
+LAO,Lao People's Democratic Republic,LAO005,Houaphanh,1,125,Cassava,Most recent,585,AgroMapsAdm1
+LAO,Lao People's Democratic Republic,LAO006,Khammouane,1,125,Cassava,Most recent,165,AgroMapsAdm1
+LAO,Lao People's Democratic Republic,LAO008,Luang Praban,1,125,Cassava,Most recent,5625,AgroMapsAdm1
+LAO,Lao People's Democratic Republic,LAO007,Luangnamtha,1,125,Cassava,Most recent,2055,AgroMapsAdm1
+LAO,Lao People's Democratic Republic,LAO009,Oudomxay,1,125,Cassava,Most recent,100,AgroMapsAdm1
+LAO,Lao People's Democratic Republic,LAO010,Phongsaly,1,125,Cassava,Most recent,640,AgroMapsAdm1
+LAO,Lao People's Democratic Republic,LAO011,Saravane,1,125,Cassava,Most recent,1575,AgroMapsAdm1
+LAO,Lao People's Democratic Republic,LAO012,Savannakhet,1,125,Cassava,Most recent,310,AgroMapsAdm1
+LAO,Lao People's Democratic Republic,LAO015,Sayabouly,1,125,Cassava,Most recent,6,AgroMapsAdm1
+LAO,Lao People's Democratic Republic,LAO017,Sekong,1,125,Cassava,Most recent,2000,AgroMapsAdm1
+LAO,Lao People's Democratic Republic,LAO013,Vientiane,1,125,Cassava,Most recent,520,AgroMapsAdm1
+LAO,Lao People's Democratic Republic,LAO014,Vientiane (Munic.),1,125,Cassava,Most recent,1530,AgroMapsAdm1
+LAO,Lao People's Democratic Republic,LAO018,Xiangkhouang,1,125,Cassava,Most recent,555,AgroMapsAdm1
+VNM,Viet Nam,VNM001,An Giang,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM002,Ba Ria Vung Tau,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM003,Bac Giang,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM004,Bac Kan,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM005,Bac Lieu,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM006,Bac Ninh,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM007,Ben Tre,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM008,Binh Dinh,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM009,Binh Duong,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM010,Binh Phuoc,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM011,Binh Thuan,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM012,Ca Mau,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM013,Can Tho,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM014,Cao Bang,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM015,Da Nang,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM016,Dac Lak,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM017,Dong Nai,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM018,Dong Thap,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM019,Gia Lai,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM020,Ha Giang,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM021,Ha Nam (Nam Ha),1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM022,Ha Noi,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM023,Ha Tay,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM024,Ha Tinh,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM025,Hai Duong,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM026,Hai Phong,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM028,Hoa Binh,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM029,Hung Yen,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM030,Khanh Hoa,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM031,Kien Giang,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM032,Kon Tum,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM033,Lai Chau,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM034,Lam Dong,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM035,Lang Son,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM036,Lao Cai,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM037,Long An,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM038,Nam Dinh,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM039,Nghe An,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM040,Ninh Binh,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM041,Ninh Thuan,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM042,Phu Tho,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM043,Phu Yen,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM044,Quang Bin,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM045,Quang Nam,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM046,Quang Ngai,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM047,Quang Ninh,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM048,Quang Tri,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM049,Soc Trang,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM050,Son La,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM027,T.P. Ho Chi Minh,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM051,Tay Ninh,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM052,Thai Binh,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM053,Thai Nguyen,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM054,Thanh Hoa,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM055,Thua Thien Hue,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM056,Tien Giang,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM057,Tra Vinh,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM058,Tuyen Quang,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM059,Vinh Long,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM060,Vinh Phuc,1,125,Cassava,Most recent,,AgroMapsAdm1
+VNM,Viet Nam,VNM061,Yen Bai,1,125,Cassava,Most recent,,AgroMapsAdm1
+BLZ,Belize,BLZ001,Belice,1,125,Cassava,Most recent,10,AgroMapsAdm1
+BLZ,Belize,BLZ002,Cayo,1,125,Cassava,Most recent,3,AgroMapsAdm1
+BLZ,Belize,BLZ005,Stann Creek,1,125,Cassava,Most recent,53,AgroMapsAdm1
+BLZ,Belize,BLZ006,Toledo,1,125,Cassava,Most recent,23,AgroMapsAdm1
+BOL,Bolivia,BOL001,Chuquisaca,1,125,Cassava,Most recent,350,AgroMapsAdm1
+BOL,Bolivia,BOL002,Cochabamba,1,125,Cassava,Most recent,8261,AgroMapsAdm1
+BOL,Bolivia,BOL003,EL Beni,1,125,Cassava,Most recent,5187,AgroMapsAdm1
+BOL,Bolivia,BOL004,La Paz,1,125,Cassava,Most recent,2117,AgroMapsAdm1
+BOL,Bolivia,BOL005,Oruro,1,125,Cassava,Most recent,,AgroMapsAdm1
+BOL,Bolivia,BOL006,Pando,1,125,Cassava,Most recent,2625,AgroMapsAdm1
+BOL,Bolivia,BOL007,Potosi,1,125,Cassava,Most recent,,AgroMapsAdm1
+BOL,Bolivia,BOL008,Santa Cruz,1,125,Cassava,Most recent,9749,AgroMapsAdm1
+BOL,Bolivia,BOL009,Tarija,1,125,Cassava,Most recent,361,AgroMapsAdm1
+BRA,Brazil,BRA001,Acre,1,125,Cassava,Most recent,18067,AgroMapsAdm1
+BRA,Brazil,BRA002,Alagoas,1,125,Cassava,Most recent,25429,AgroMapsAdm1
+BRA,Brazil,BRA003,Amapa,1,125,Cassava,Most recent,7256,AgroMapsAdm1
+BRA,Brazil,BRA004,Amazonas,1,125,Cassava,Most recent,94154,AgroMapsAdm1
+BRA,Brazil,BRA005,Bahia,1,125,Cassava,Most recent,286095,AgroMapsAdm1
+BRA,Brazil,BRA006,Ceara,1,125,Cassava,Most recent,84481,AgroMapsAdm1
+BRA,Brazil,BRA008,Espiritu Santo,1,125,Cassava,Most recent,18320,AgroMapsAdm1
+BRA,Brazil,BRA009,Goias,1,125,Cassava,Most recent,16626,AgroMapsAdm1
+BRA,Brazil,BRA010,Maranhao,1,125,Cassava,Most recent,135834,AgroMapsAdm1
+BRA,Brazil,BRA011,Mato Grosso,1,125,Cassava,Most recent,35831,AgroMapsAdm1
+BRA,Brazil,BRA012,Mato Grosso do Sul,1,125,Cassava,Most recent,28866,AgroMapsAdm1
+BRA,Brazil,BRA013,Minas Gerais,1,125,Cassava,Most recent,69004,AgroMapsAdm1
+BRA,Brazil,BRA014,Para,1,125,Cassava,Most recent,253760,AgroMapsAdm1
+BRA,Brazil,BRA015,Paraiba,1,125,Cassava,Most recent,54555,AgroMapsAdm1
+BRA,Brazil,BRA016,Parana,1,125,Cassava,Most recent,169772,AgroMapsAdm1
+BRA,Brazil,BRA017,Pernambuco,1,125,Cassava,Most recent,45939,AgroMapsAdm1
+BRA,Brazil,BRA018,Piaui,1,125,Cassava,Most recent,39694,AgroMapsAdm1
+BRA,Brazil,BRA020,Rio Grande do Norte,1,125,Cassava,Most recent,36857,AgroMapsAdm1
+BRA,Brazil,BRA021,Rio Grande do Sul,1,125,Cassava,Most recent,77540,AgroMapsAdm1
+BRA,Brazil,BRA019,Rio de Janeiro,1,125,Cassava,Most recent,15497,AgroMapsAdm1
+BRA,Brazil,BRA022,Rondonia,1,125,Cassava,Most recent,9507,AgroMapsAdm1
+BRA,Brazil,BRA023,Roraima,1,125,Cassava,Most recent,4060,AgroMapsAdm1
+BRA,Brazil,BRA024,Santa Catarina,1,125,Cassava,Most recent,48852,AgroMapsAdm1
+BRA,Brazil,BRA025,Sao Paulo,1,125,Cassava,Most recent,45676,AgroMapsAdm1
+BRA,Brazil,BRA026,Sergipe,1,125,Cassava,Most recent,22956,AgroMapsAdm1
+BRA,Brazil,BRA027,Tocantins,1,125,Cassava,Most recent,20060,AgroMapsAdm1
+CHL,Chile,CHL001,Aisen del General Carlos Ibanez del Campo,1,125,Cassava,Most recent,,AgroMapsAdm1
+CHL,Chile,CHL002,Antofagasta,1,125,Cassava,Most recent,,AgroMapsAdm1
+CHL,Chile,CHL003,Araucania,1,125,Cassava,Most recent,,AgroMapsAdm1
+CHL,Chile,CHL004,Atacama,1,125,Cassava,Most recent,,AgroMapsAdm1
+CHL,Chile,CHL005,Biobio,1,125,Cassava,Most recent,,AgroMapsAdm1
+CHL,Chile,CHL006,Coquimbo,1,125,Cassava,Most recent,,AgroMapsAdm1
+CHL,Chile,CHL007,Libertador General Bernardo O'Higgins,1,125,Cassava,Most recent,,AgroMapsAdm1
+CHL,Chile,CHL008,Los Lagos,1,125,Cassava,Most recent,,AgroMapsAdm1
+CHL,Chile,CHL009,Magallanes y Antartica Chilena,1,125,Cassava,Most recent,,AgroMapsAdm1
+CHL,Chile,CHL010,Maule,1,125,Cassava,Most recent,,AgroMapsAdm1
+CHL,Chile,CHL011,Region Metropolitana de Santiago,1,125,Cassava,Most recent,,AgroMapsAdm1
+CHL,Chile,CHL012,Tarapaca,1,125,Cassava,Most recent,,AgroMapsAdm1
+CHL,Chile,CHL013,Valparaiso,1,125,Cassava,Most recent,5.18,AgroMapsAdm1
+COL,Colombia,COL001,Amazonas,1,125,Cassava,Most recent,199,AgroMapsAdm1
+COL,Colombia,COL002,Antioquia,1,125,Cassava,Most recent,10386,AgroMapsAdm1
+COL,Colombia,COL003,Arauca,1,125,Cassava,Most recent,3435,AgroMapsAdm1
+COL,Colombia,COL005,Atlantico,1,125,Cassava,Most recent,6155,AgroMapsAdm1
+COL,Colombia,COL006,Bolivar,1,125,Cassava,Most recent,15977,AgroMapsAdm1
+COL,Colombia,COL007,Boyaca,1,125,Cassava,Most recent,2013,AgroMapsAdm1
+COL,Colombia,COL008,Caldas,1,125,Cassava,Most recent,1777,AgroMapsAdm1
+COL,Colombia,COL009,Caqueta,1,125,Cassava,Most recent,6381,AgroMapsAdm1
+COL,Colombia,COL010,Casanare,1,125,Cassava,Most recent,1698,AgroMapsAdm1
+COL,Colombia,COL011,Cauca,1,125,Cassava,Most recent,6449,AgroMapsAdm1
+COL,Colombia,COL012,Cesar,1,125,Cassava,Most recent,6649,AgroMapsAdm1
+COL,Colombia,COL013,Choco,1,125,Cassava,Most recent,1674,AgroMapsAdm1
+COL,Colombia,COL014,Cordoba,1,125,Cassava,Most recent,15013,AgroMapsAdm1
+COL,Colombia,COL015,Cundinamarca,1,125,Cassava,Most recent,4621,AgroMapsAdm1
+COL,Colombia,COL016,Guainia,1,125,Cassava,Most recent,780,AgroMapsAdm1
+COL,Colombia,COL017,Guaviare,1,125,Cassava,Most recent,983,AgroMapsAdm1
+COL,Colombia,COL018,Huila,1,125,Cassava,Most recent,3982,AgroMapsAdm1
+COL,Colombia,COL019,La Guajira,1,125,Cassava,Most recent,833,AgroMapsAdm1
+COL,Colombia,COL020,Magdalena,1,125,Cassava,Most recent,13175,AgroMapsAdm1
+COL,Colombia,COL021,Meta,1,125,Cassava,Most recent,5160,AgroMapsAdm1
+COL,Colombia,COL022,Narino,1,125,Cassava,Most recent,827,AgroMapsAdm1
+COL,Colombia,COL023,Norte de Santander,1,125,Cassava,Most recent,7564,AgroMapsAdm1
+COL,Colombia,COL024,Putumayo,1,125,Cassava,Most recent,1742,AgroMapsAdm1
+COL,Colombia,COL025,Quindio,1,125,Cassava,Most recent,958,AgroMapsAdm1
+COL,Colombia,COL026,Risaralda,1,125,Cassava,Most recent,1084,AgroMapsAdm1
+COL,Colombia,COL027,Santander,1,125,Cassava,Most recent,5313,AgroMapsAdm1
+COL,Colombia,COL028,Sucre,1,125,Cassava,Most recent,25436,AgroMapsAdm1
+COL,Colombia,COL029,Tolima,1,125,Cassava,Most recent,1859,AgroMapsAdm1
+COL,Colombia,COL030,Valle del Cauca,1,125,Cassava,Most recent,232,AgroMapsAdm1
+COL,Colombia,COL032,Vichada,1,125,Cassava,Most recent,195,AgroMapsAdm1
+ECU,Ecuador,ECU025,Azuay,1,125,Cassava,Most recent,,AgroMapsAdm1
+ECU,Ecuador,ECU001,Azuay,1,125,Cassava,Most recent,230,AgroMapsAdm1
+ECU,Ecuador,ECU002,Bolivar,1,125,Cassava,Most recent,220,AgroMapsAdm1
+ECU,Ecuador,ECU026,Bolivar,1,125,Cassava,Most recent,,AgroMapsAdm1
+ECU,Ecuador,ECU003,Canar,1,125,Cassava,Most recent,350,AgroMapsAdm1
+ECU,Ecuador,ECU027,Canar,1,125,Cassava,Most recent,58,AgroMapsAdm1
+ECU,Ecuador,ECU028,Carchi,1,125,Cassava,Most recent,,AgroMapsAdm1
+ECU,Ecuador,ECU004,Carchi,1,125,Cassava,Most recent,90,AgroMapsAdm1
+ECU,Ecuador,ECU024,Centro Suroriente,1,125,Cassava,Most recent,7177,AgroMapsAdm1
+ECU,Ecuador,ECU005,Chimborazo,1,125,Cassava,Most recent,80,AgroMapsAdm1
+ECU,Ecuador,ECU029,Chimborazo,1,125,Cassava,Most recent,,AgroMapsAdm1
+ECU,Ecuador,ECU030,Cotopaxi,1,125,Cassava,Most recent,2932,AgroMapsAdm1
+ECU,Ecuador,ECU006,Cotopaxi,1,125,Cassava,Most recent,2770,AgroMapsAdm1
+ECU,Ecuador,ECU031,El oro,1,125,Cassava,Most recent,102,AgroMapsAdm1
+ECU,Ecuador,ECU008,Esmeraldas,1,125,Cassava,Most recent,330,AgroMapsAdm1
+ECU,Ecuador,ECU032,Esmeraldas,1,125,Cassava,Most recent,303,AgroMapsAdm1
+ECU,Ecuador,ECU033,Guayas,1,125,Cassava,Most recent,283,AgroMapsAdm1
+ECU,Ecuador,ECU010,Guayas,1,125,Cassava,Most recent,400,AgroMapsAdm1
+ECU,Ecuador,ECU034,Imbabura,1,125,Cassava,Most recent,137,AgroMapsAdm1
+ECU,Ecuador,ECU011,Imbabura,1,125,Cassava,Most recent,190,AgroMapsAdm1
+ECU,Ecuador,ECU035,Loja,1,125,Cassava,Most recent,1613,AgroMapsAdm1
+ECU,Ecuador,ECU012,Loja,1,125,Cassava,Most recent,4400,AgroMapsAdm1
+ECU,Ecuador,ECU036,Los Rios,1,125,Cassava,Most recent,1753,AgroMapsAdm1
+ECU,Ecuador,ECU037,Manabi,1,125,Cassava,Most recent,2571,AgroMapsAdm1
+ECU,Ecuador,ECU014,Manabi,1,125,Cassava,Most recent,2040,AgroMapsAdm1
+ECU,Ecuador,ECU015,Morona Santiago,1,125,Cassava,Most recent,1910,AgroMapsAdm1
+ECU,Ecuador,ECU016,Napo,1,125,Cassava,Most recent,2110,AgroMapsAdm1
+ECU,Ecuador,ECU023,Nororiente,1,125,Cassava,Most recent,1666,AgroMapsAdm1
+ECU,Ecuador,ECU018,Pastaza,1,125,Cassava,Most recent,710,AgroMapsAdm1
+ECU,Ecuador,ECU038,Pichincha,1,125,Cassava,Most recent,459,AgroMapsAdm1
+ECU,Ecuador,ECU019,Pichincha,1,125,Cassava,Most recent,1900,AgroMapsAdm1
+ECU,Ecuador,ECU020,Sucumbios,1,125,Cassava,Most recent,400,AgroMapsAdm1
+ECU,Ecuador,ECU039,Tungurahua,1,125,Cassava,Most recent,,AgroMapsAdm1
+ECU,Ecuador,ECU022,Zamora Chinchipe,1,125,Cassava,Most recent,2340,AgroMapsAdm1
+GUY,Guyana,GUY001,Barima Waini (Region n 1),1,125,Cassava,Most recent,,AgroMapsAdm1
+GUY,Guyana,GUY002,Cuyuni/Mazaruni (Region n 7),1,125,Cassava,Most recent,,AgroMapsAdm1
+GUY,Guyana,GUY003,Demerara Mahaica (Region n 4),1,125,Cassava,Most recent,,AgroMapsAdm1
+GUY,Guyana,GUY004,East Berbice/Corentyne (Region n 6),1,125,Cassava,Most recent,,AgroMapsAdm1
+GUY,Guyana,GUY005,Essequibo Islands/West Demerara (Region n 3),1,125,Cassava,Most recent,,AgroMapsAdm1
+GUY,Guyana,GUY006,Mahaica Berbice (Region n 5),1,125,Cassava,Most recent,,AgroMapsAdm1
+GUY,Guyana,GUY007,Pomeroon/Supenaam (Region n 2),1,125,Cassava,Most recent,,AgroMapsAdm1
+GUY,Guyana,GUY008,Potaro/Siparuni (Region n 8),1,125,Cassava,Most recent,,AgroMapsAdm1
+GUY,Guyana,GUY009,Upper Demerara/Berbice (Region n 10),1,125,Cassava,Most recent,,AgroMapsAdm1
+GUY,Guyana,GUY010,Upper Takutu/Upper Essequibo (Region n 9),1,125,Cassava,Most recent,,AgroMapsAdm1
+HTI,Haiti,HTI002,Centre,1,125,Cassava,Most recent,,AgroMapsAdm1
+HTI,Haiti,HTI003,Grand-Anse,1,125,Cassava,Most recent,,AgroMapsAdm1
+HTI,Haiti,HTI004,Nord,1,125,Cassava,Most recent,,AgroMapsAdm1
+HTI,Haiti,HTI005,Nord-Est,1,125,Cassava,Most recent,,AgroMapsAdm1
+HTI,Haiti,HTI006,Nord-Ouest,1,125,Cassava,Most recent,,AgroMapsAdm1
+HTI,Haiti,HTI007,Ouest,1,125,Cassava,Most recent,,AgroMapsAdm1
+HTI,Haiti,HTI008,Sud,1,125,Cassava,Most recent,,AgroMapsAdm1
+HTI,Haiti,HTI009,Sud-Est,1,125,Cassava,Most recent,,AgroMapsAdm1
+PAN,Panama,PAN001,Bocas del Toro,1,125,Cassava,Most recent,107,AgroMapsAdm1
+PAN,Panama,PAN002,Chiriqui,1,125,Cassava,Most recent,910,AgroMapsAdm1
+PAN,Panama,PAN003,Cocle,1,125,Cassava,Most recent,945,AgroMapsAdm1
+PAN,Panama,PAN004,Colon,1,125,Cassava,Most recent,749,AgroMapsAdm1
+PAN,Panama,PAN005,Darien,1,125,Cassava,Most recent,280,AgroMapsAdm1
+PAN,Panama,PAN007,Herrera,1,125,Cassava,Most recent,756,AgroMapsAdm1
+PAN,Panama,PAN008,Los Santos,1,125,Cassava,Most recent,86,AgroMapsAdm1
+PAN,Panama,PAN011,Panama,1,125,Cassava,Most recent,575,AgroMapsAdm1
+PAN,Panama,PAN013,Veraguas,1,125,Cassava,Most recent,523,AgroMapsAdm1
+PER,Peru,PER001,Amazonas,1,125,Cassava,Most recent,,AgroMapsAdm1
+PER,Peru,PER002,Ancash,1,125,Cassava,Most recent,,AgroMapsAdm1
+PER,Peru,PER003,Apurimac,1,125,Cassava,Most recent,,AgroMapsAdm1
+PER,Peru,PER004,Arequipa,1,125,Cassava,Most recent,,AgroMapsAdm1
+PER,Peru,PER005,Ayacucho,1,125,Cassava,Most recent,,AgroMapsAdm1
+PER,Peru,PER006,Cajamarca,1,125,Cassava,Most recent,,AgroMapsAdm1
+PER,Peru,PER008,Cusco,1,125,Cassava,Most recent,,AgroMapsAdm1
+PER,Peru,PER009,Huancavelica,1,125,Cassava,Most recent,,AgroMapsAdm1
+PER,Peru,PER010,Huanuco,1,125,Cassava,Most recent,,AgroMapsAdm1
+PER,Peru,PER011,Ica,1,125,Cassava,Most recent,,AgroMapsAdm1
+PER,Peru,PER012,Junin,1,125,Cassava,Most recent,,AgroMapsAdm1
+PER,Peru,PER013,La Libertad,1,125,Cassava,Most recent,,AgroMapsAdm1
+PER,Peru,PER014,Lambayeque,1,125,Cassava,Most recent,,AgroMapsAdm1
+PER,Peru,PER015,Lima,1,125,Cassava,Most recent,,AgroMapsAdm1
+PER,Peru,PER016,Loreto,1,125,Cassava,Most recent,,AgroMapsAdm1
+PER,Peru,PER017,Madre de Dios,1,125,Cassava,Most recent,,AgroMapsAdm1
+PER,Peru,PER018,Moquegua,1,125,Cassava,Most recent,,AgroMapsAdm1
+PER,Peru,PER019,Pasco,1,125,Cassava,Most recent,,AgroMapsAdm1
+PER,Peru,PER020,Piura,1,125,Cassava,Most recent,,AgroMapsAdm1
+PER,Peru,PER021,Puno,1,125,Cassava,Most recent,,AgroMapsAdm1
+PER,Peru,PER022,San Martin,1,125,Cassava,Most recent,,AgroMapsAdm1
+PER,Peru,PER023,Tacna,1,125,Cassava,Most recent,,AgroMapsAdm1
+PER,Peru,PER024,Tumbes,1,125,Cassava,Most recent,,AgroMapsAdm1
+PER,Peru,PER025,Ucayali,1,125,Cassava,Most recent,,AgroMapsAdm1
+PRI,Puerto Rico,PRI001,Adjuntas,1,125,Cassava,Most recent,0.8,AgroMapsAdm1
+PRI,Puerto Rico,PRI002,Aguada,1,125,Cassava,Most recent,0.4,AgroMapsAdm1
+PRI,Puerto Rico,PRI003,Aguadilla,1,125,Cassava,Most recent,,AgroMapsAdm1
+PRI,Puerto Rico,PRI004,Aguas buenas,1,125,Cassava,Most recent,3.2,AgroMapsAdm1
+PRI,Puerto Rico,PRI005,Aibonito,1,125,Cassava,Most recent,,AgroMapsAdm1
+PRI,Puerto Rico,PRI006,Anasco,1,125,Cassava,Most recent,2,AgroMapsAdm1
+PRI,Puerto Rico,PRI007,Arecibo,1,125,Cassava,Most recent,0.4,AgroMapsAdm1
+PRI,Puerto Rico,PRI008,Arroyo,1,125,Cassava,Most recent,,AgroMapsAdm1
+PRI,Puerto Rico,PRI009,Barceloneta,1,125,Cassava,Most recent,,AgroMapsAdm1
+PRI,Puerto Rico,PRI010,Barranquitas,1,125,Cassava,Most recent,10.4,AgroMapsAdm1
+PRI,Puerto Rico,PRI011,Bayamon,1,125,Cassava,Most recent,2.4,AgroMapsAdm1
+PRI,Puerto Rico,PRI012,Cabo Rojo,1,125,Cassava,Most recent,0.8,AgroMapsAdm1
+PRI,Puerto Rico,PRI013,Caguas,1,125,Cassava,Most recent,3.6,AgroMapsAdm1
+PRI,Puerto Rico,PRI014,Camuy,1,125,Cassava,Most recent,2.4,AgroMapsAdm1
+PRI,Puerto Rico,PRI015,Canovanas,1,125,Cassava,Most recent,3.6,AgroMapsAdm1
+PRI,Puerto Rico,PRI016,Carolina,1,125,Cassava,Most recent,1.2,AgroMapsAdm1
+PRI,Puerto Rico,PRI017,Catano,1,125,Cassava,Most recent,,AgroMapsAdm1
+PRI,Puerto Rico,PRI018,Cayey,1,125,Cassava,Most recent,1.2,AgroMapsAdm1
+PRI,Puerto Rico,PRI019,Ceibas,1,125,Cassava,Most recent,,AgroMapsAdm1
+PRI,Puerto Rico,PRI020,Ciales,1,125,Cassava,Most recent,1.2,AgroMapsAdm1
+PRI,Puerto Rico,PRI021,Cidra,1,125,Cassava,Most recent,3.6,AgroMapsAdm1
+PRI,Puerto Rico,PRI022,Coamo,1,125,Cassava,Most recent,2,AgroMapsAdm1
+PRI,Puerto Rico,PRI023,Comerio,1,125,Cassava,Most recent,3.2,AgroMapsAdm1
+PRI,Puerto Rico,PRI024,Corozal,1,125,Cassava,Most recent,16,AgroMapsAdm1
+PRI,Puerto Rico,PRI025,Culebra,1,125,Cassava,Most recent,,AgroMapsAdm1
+PRI,Puerto Rico,PRI026,Dorado,1,125,Cassava,Most recent,,AgroMapsAdm1
+PRI,Puerto Rico,PRI027,Fajardo,1,125,Cassava,Most recent,0.4,AgroMapsAdm1
+PRI,Puerto Rico,PRI028,Florida,1,125,Cassava,Most recent,,AgroMapsAdm1
+PRI,Puerto Rico,PRI029,Guanica,1,125,Cassava,Most recent,,AgroMapsAdm1
+PRI,Puerto Rico,PRI030,Guayama,1,125,Cassava,Most recent,1.2,AgroMapsAdm1
+PRI,Puerto Rico,PRI031,Guayanilla,1,125,Cassava,Most recent,1.2,AgroMapsAdm1
+PRI,Puerto Rico,PRI032,Guaynabo,1,125,Cassava,Most recent,,AgroMapsAdm1
+PRI,Puerto Rico,PRI033,Gurabo,1,125,Cassava,Most recent,2.4,AgroMapsAdm1
+PRI,Puerto Rico,PRI034,Hatillo,1,125,Cassava,Most recent,,AgroMapsAdm1
+PRI,Puerto Rico,PRI035,Hormigueros,1,125,Cassava,Most recent,0.4,AgroMapsAdm1
+PRI,Puerto Rico,PRI036,Humacao,1,125,Cassava,Most recent,,AgroMapsAdm1
+PRI,Puerto Rico,PRI037,Isabela,1,125,Cassava,Most recent,4,AgroMapsAdm1
+PRI,Puerto Rico,PRI038,Jayuya,1,125,Cassava,Most recent,0.4,AgroMapsAdm1
+PRI,Puerto Rico,PRI039,Juana Diaz,1,125,Cassava,Most recent,0.4,AgroMapsAdm1
+PRI,Puerto Rico,PRI040,Juncos,1,125,Cassava,Most recent,,AgroMapsAdm1
+PRI,Puerto Rico,PRI041,Lajas,1,125,Cassava,Most recent,0.8,AgroMapsAdm1
+PRI,Puerto Rico,PRI042,Lares,1,125,Cassava,Most recent,2,AgroMapsAdm1
+PRI,Puerto Rico,PRI043,Las Marias,1,125,Cassava,Most recent,2,AgroMapsAdm1
+PRI,Puerto Rico,PRI044,Las Piedras,1,125,Cassava,Most recent,5.2,AgroMapsAdm1
+PRI,Puerto Rico,PRI045,Loiza,1,125,Cassava,Most recent,0.8,AgroMapsAdm1
+PRI,Puerto Rico,PRI046,Luquillo,1,125,Cassava,Most recent,,AgroMapsAdm1
+PRI,Puerto Rico,PRI047,Manati,1,125,Cassava,Most recent,0.8,AgroMapsAdm1
+PRI,Puerto Rico,PRI048,Maricao,1,125,Cassava,Most recent,0.8,AgroMapsAdm1
+PRI,Puerto Rico,PRI049,Maunabo,1,125,Cassava,Most recent,,AgroMapsAdm1
+PRI,Puerto Rico,PRI050,Mayaguez,1,125,Cassava,Most recent,2.4,AgroMapsAdm1
+PRI,Puerto Rico,PRI051,Moca,1,125,Cassava,Most recent,9.6,AgroMapsAdm1
+PRI,Puerto Rico,PRI052,Morovis,1,125,Cassava,Most recent,4,AgroMapsAdm1
+PRI,Puerto Rico,PRI053,Naguabo,1,125,Cassava,Most recent,1.2,AgroMapsAdm1
+PRI,Puerto Rico,PRI054,Naranjito,1,125,Cassava,Most recent,5.2,AgroMapsAdm1
+PRI,Puerto Rico,PRI055,Orocovis,1,125,Cassava,Most recent,5.2,AgroMapsAdm1
+PRI,Puerto Rico,PRI056,Patillas,1,125,Cassava,Most recent,2,AgroMapsAdm1
+PRI,Puerto Rico,PRI057,Penuelas,1,125,Cassava,Most recent,1.2,AgroMapsAdm1
+PRI,Puerto Rico,PRI058,Ponce,1,125,Cassava,Most recent,1.2,AgroMapsAdm1
+PRI,Puerto Rico,PRI059,Quebradillas,1,125,Cassava,Most recent,0.8,AgroMapsAdm1
+PRI,Puerto Rico,PRI060,Rincon,1,125,Cassava,Most recent,0.8,AgroMapsAdm1
+PRI,Puerto Rico,PRI061,Rio Grande,1,125,Cassava,Most recent,3.2,AgroMapsAdm1
+PRI,Puerto Rico,PRI062,Sabana Grande,1,125,Cassava,Most recent,0.4,AgroMapsAdm1
+PRI,Puerto Rico,PRI063,Salinas,1,125,Cassava,Most recent,,AgroMapsAdm1
+PRI,Puerto Rico,PRI064,San German,1,125,Cassava,Most recent,3.6,AgroMapsAdm1
+PRI,Puerto Rico,PRI065,San Juan,1,125,Cassava,Most recent,0.4,AgroMapsAdm1
+PRI,Puerto Rico,PRI066,San Lorenzo,1,125,Cassava,Most recent,6.8,AgroMapsAdm1
+PRI,Puerto Rico,PRI067,San Sebastian,1,125,Cassava,Most recent,0.8,AgroMapsAdm1
+PRI,Puerto Rico,PRI068,Santa Isabel,1,125,Cassava,Most recent,0.4,AgroMapsAdm1
+PRI,Puerto Rico,PRI069,Toa Alta,1,125,Cassava,Most recent,0.8,AgroMapsAdm1
+PRI,Puerto Rico,PRI070,Toa Baja,1,125,Cassava,Most recent,,AgroMapsAdm1
+PRI,Puerto Rico,PRI071,Trujillo Alto,1,125,Cassava,Most recent,1.6,AgroMapsAdm1
+PRI,Puerto Rico,PRI072,Utuado,1,125,Cassava,Most recent,1.6,AgroMapsAdm1
+PRI,Puerto Rico,PRI074,Vega Baja,1,125,Cassava,Most recent,2,AgroMapsAdm1
+PRI,Puerto Rico,PRI073,Vega alta,1,125,Cassava,Most recent,,AgroMapsAdm1
+PRI,Puerto Rico,PRI075,Vieques,1,125,Cassava,Most recent,0.4,AgroMapsAdm1
+PRI,Puerto Rico,PRI076,Villalba,1,125,Cassava,Most recent,4,AgroMapsAdm1
+PRI,Puerto Rico,PRI077,Yabucoa,1,125,Cassava,Most recent,0.4,AgroMapsAdm1
+PRI,Puerto Rico,PRI078,Yauco,1,125,Cassava,Most recent,0.4,AgroMapsAdm1
+SUR,Suriname,SUR002,Commewijne,1,125,Cassava,Most recent,28,AgroMapsAdm1
+SUR,Suriname,SUR003,Coronie,1,125,Cassava,Most recent,5,AgroMapsAdm1
+SUR,Suriname,SUR004,Marowijne,1,125,Cassava,Most recent,52,AgroMapsAdm1
+SUR,Suriname,SUR005,Nickerie,1,125,Cassava,Most recent,10,AgroMapsAdm1
+SUR,Suriname,SUR007,Paramaribo,1,125,Cassava,Most recent,96,AgroMapsAdm1
+SUR,Suriname,SUR008,Saramacca,1,125,Cassava,Most recent,200,AgroMapsAdm1
+SUR,Suriname,SUR010,Wanica,1,125,Cassava,Most recent,114,AgroMapsAdm1
+VEN,Venezuela,VEN001,Amazonas,1,125,Cassava,Most recent,3527,AgroMapsAdm1
+VEN,Venezuela,VEN002,Anzoategui,1,125,Cassava,Most recent,3066,AgroMapsAdm1
+VEN,Venezuela,VEN003,Apure,1,125,Cassava,Most recent,3388,AgroMapsAdm1
+VEN,Venezuela,VEN004,Aragua,1,125,Cassava,Most recent,297,AgroMapsAdm1
+VEN,Venezuela,VEN005,Barinas,1,125,Cassava,Most recent,6349,AgroMapsAdm1
+VEN,Venezuela,VEN006,Bolivar,1,125,Cassava,Most recent,8401,AgroMapsAdm1
+VEN,Venezuela,VEN007,Carabobo,1,125,Cassava,Most recent,1503,AgroMapsAdm1
+VEN,Venezuela,VEN008,Cojedes,1,125,Cassava,Most recent,2943,AgroMapsAdm1
+VEN,Venezuela,VEN009,Delta Amacuro,1,125,Cassava,Most recent,444,AgroMapsAdm1
+VEN,Venezuela,VEN010,Distrito Federal,1,125,Cassava,Most recent,20,AgroMapsAdm1
+VEN,Venezuela,VEN011,Falcon,1,125,Cassava,Most recent,245,AgroMapsAdm1
+VEN,Venezuela,VEN012,Guarico,1,125,Cassava,Most recent,972,AgroMapsAdm1
+VEN,Venezuela,VEN013,Lara,1,125,Cassava,Most recent,316,AgroMapsAdm1
+VEN,Venezuela,VEN014,Merida,1,125,Cassava,Most recent,1796,AgroMapsAdm1
+VEN,Venezuela,VEN015,Miranda,1,125,Cassava,Most recent,2209,AgroMapsAdm1
+VEN,Venezuela,VEN016,Monagas,1,125,Cassava,Most recent,6840,AgroMapsAdm1
+VEN,Venezuela,VEN017,Nueva Esparta,1,125,Cassava,Most recent,76,AgroMapsAdm1
+VEN,Venezuela,VEN018,Portuguesa,1,125,Cassava,Most recent,306,AgroMapsAdm1
+VEN,Venezuela,VEN019,Sucre,1,125,Cassava,Most recent,4425,AgroMapsAdm1
+VEN,Venezuela,VEN020,Tachira,1,125,Cassava,Most recent,3674,AgroMapsAdm1
+VEN,Venezuela,VEN021,Trujillo,1,125,Cassava,Most recent,2825,AgroMapsAdm1
+VEN,Venezuela,VEN023,Yaracuy,1,125,Cassava,Most recent,823,AgroMapsAdm1
+VEN,Venezuela,VEN024,Zulia,1,125,Cassava,Most recent,4801,AgroMapsAdm1

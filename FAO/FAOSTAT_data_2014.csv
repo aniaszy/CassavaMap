@@ -1,0 +1,95 @@
+Domain Code,Domain,Area Code,Area,Element Code,Element,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description
+QC,Crops,7,Angola,5312,Area harvested,125,Cassava,2014,2014,ha,755874,,Official data
+QC,Crops,7,Angola,5419,Yield,125,Cassava,2014,2014,hg/ha,101060,Fc,Calculated data
+QC,Crops,7,Angola,5510,Production,125,Cassava,2014,2014,tonnes,7638880,,Official data
+QC,Crops,53,Benin,5312,Area harvested,125,Cassava,2014,2014,ha,296641,,Official data
+QC,Crops,53,Benin,5419,Yield,125,Cassava,2014,2014,hg/ha,137092,Fc,Calculated data
+QC,Crops,53,Benin,5510,Production,125,Cassava,2014,2014,tonnes,4066711,,Official data
+QC,Crops,233,Burkina Faso,5312,Area harvested,125,Cassava,2014,2014,ha,2987,Im,FAO data based on imputation methodology
+QC,Crops,233,Burkina Faso,5419,Yield,125,Cassava,2014,2014,hg/ha,13737,Fc,Calculated data
+QC,Crops,233,Burkina Faso,5510,Production,125,Cassava,2014,2014,tonnes,4103,Im,FAO data based on imputation methodology
+QC,Crops,29,Burundi,5312,Area harvested,125,Cassava,2014,2014,ha,304546,,Official data
+QC,Crops,29,Burundi,5419,Yield,125,Cassava,2014,2014,hg/ha,73629,Fc,Calculated data
+QC,Crops,29,Burundi,5510,Production,125,Cassava,2014,2014,tonnes,2242352,,Official data
+QC,Crops,32,Cameroon,5312,Area harvested,125,Cassava,2014,2014,ha,326342,Im,FAO data based on imputation methodology
+QC,Crops,32,Cameroon,5419,Yield,125,Cassava,2014,2014,hg/ha,150678,Fc,Calculated data
+QC,Crops,32,Cameroon,5510,Production,125,Cassava,2014,2014,tonnes,4917263,Im,FAO data based on imputation methodology
+QC,Crops,37,Central African Republic,5312,Area harvested,125,Cassava,2014,2014,ha,243329,Im,FAO data based on imputation methodology
+QC,Crops,37,Central African Republic,5419,Yield,125,Cassava,2014,2014,hg/ha,28570,Fc,Calculated data
+QC,Crops,37,Central African Republic,5510,Production,125,Cassava,2014,2014,tonnes,695188,Im,FAO data based on imputation methodology
+QC,Crops,39,Chad,5312,Area harvested,125,Cassava,2014,2014,ha,30682,,Official data
+QC,Crops,39,Chad,5419,Yield,125,Cassava,2014,2014,hg/ha,54393,Fc,Calculated data
+QC,Crops,39,Chad,5510,Production,125,Cassava,2014,2014,tonnes,166888,,Official data
+QC,Crops,46,Congo,5312,Area harvested,125,Cassava,2014,2014,ha,126758,Im,FAO data based on imputation methodology
+QC,Crops,46,Congo,5419,Yield,125,Cassava,2014,2014,hg/ha,103205,Fc,Calculated data
+QC,Crops,46,Congo,5510,Production,125,Cassava,2014,2014,tonnes,1308205,Im,FAO data based on imputation methodology
+QC,Crops,107,Cote d'Ivoire,5312,Area harvested,125,Cassava,2014,2014,ha,652729,Im,FAO data based on imputation methodology
+QC,Crops,107,Cote d'Ivoire,5419,Yield,125,Cassava,2014,2014,hg/ha,64947,Fc,Calculated data
+QC,Crops,107,Cote d'Ivoire,5510,Production,125,Cassava,2014,2014,tonnes,4239303,,Official data
+QC,Crops,250,Democratic Republic of the Congo,5312,Area harvested,125,Cassava,2014,2014,ha,1811141,Im,FAO data based on imputation methodology
+QC,Crops,250,Democratic Republic of the Congo,5419,Yield,125,Cassava,2014,2014,hg/ha,81392,Fc,Calculated data
+QC,Crops,250,Democratic Republic of the Congo,5510,Production,125,Cassava,2014,2014,tonnes,14741190,Im,FAO data based on imputation methodology
+QC,Crops,61,Equatorial Guinea,5312,Area harvested,125,Cassava,2014,2014,ha,23464,Im,FAO data based on imputation methodology
+QC,Crops,61,Equatorial Guinea,5419,Yield,125,Cassava,2014,2014,hg/ha,30547,Fc,Calculated data
+QC,Crops,61,Equatorial Guinea,5510,Production,125,Cassava,2014,2014,tonnes,71673,Im,FAO data based on imputation methodology
+QC,Crops,74,Gabon,5312,Area harvested,125,Cassava,2014,2014,ha,61060,Im,FAO data based on imputation methodology
+QC,Crops,74,Gabon,5419,Yield,125,Cassava,2014,2014,hg/ha,53024,Fc,Calculated data
+QC,Crops,74,Gabon,5510,Production,125,Cassava,2014,2014,tonnes,323762,Im,FAO data based on imputation methodology
+QC,Crops,75,Gambia,5312,Area harvested,125,Cassava,2014,2014,ha,3041,Im,FAO data based on imputation methodology
+QC,Crops,75,Gambia,5510,Production,125,Cassava,2014,2014,tonnes,11582,Im,FAO data based on imputation methodology
+QC,Crops,81,Ghana,5312,Area harvested,125,Cassava,2014,2014,ha,888847,,Official data
+QC,Crops,81,Ghana,5419,Yield,125,Cassava,2014,2014,hg/ha,200239,Fc,Calculated data
+QC,Crops,81,Ghana,5510,Production,125,Cassava,2014,2014,tonnes,17798217,,Official data
+QC,Crops,90,Guinea,5312,Area harvested,125,Cassava,2014,2014,ha,173885,Im,FAO data based on imputation methodology
+QC,Crops,90,Guinea,5419,Yield,125,Cassava,2014,2014,hg/ha,75277,Fc,Calculated data
+QC,Crops,90,Guinea,5510,Production,125,Cassava,2014,2014,tonnes,1308948,Im,FAO data based on imputation methodology
+QC,Crops,175,Guinea-Bissau,5312,Area harvested,125,Cassava,2014,2014,ha,4883,Im,FAO data based on imputation methodology
+QC,Crops,175,Guinea-Bissau,5419,Yield,125,Cassava,2014,2014,hg/ha,94505,Fc,Calculated data
+QC,Crops,175,Guinea-Bissau,5510,Production,125,Cassava,2014,2014,tonnes,46144,Im,FAO data based on imputation methodology
+QC,Crops,114,Kenya,5312,Area harvested,125,Cassava,2014,2014,ha,63725,,Official data
+QC,Crops,114,Kenya,5419,Yield,125,Cassava,2014,2014,hg/ha,134713,Fc,Calculated data
+QC,Crops,114,Kenya,5510,Production,125,Cassava,2014,2014,tonnes,858461,,Official data
+QC,Crops,123,Liberia,5312,Area harvested,125,Cassava,2014,2014,ha,67050,Im,FAO data based on imputation methodology
+QC,Crops,123,Liberia,5419,Yield,125,Cassava,2014,2014,hg/ha,77701,Fc,Calculated data
+QC,Crops,123,Liberia,5510,Production,125,Cassava,2014,2014,tonnes,520984,Im,FAO data based on imputation methodology
+QC,Crops,130,Malawi,5312,Area harvested,125,Cassava,2014,2014,ha,222750,,Official data
+QC,Crops,130,Malawi,5419,Yield,125,Cassava,2014,2014,hg/ha,225040,Fc,Calculated data
+QC,Crops,130,Malawi,5510,Production,125,Cassava,2014,2014,tonnes,5012763,,Official data
+QC,Crops,133,Mali,5312,Area harvested,125,Cassava,2014,2014,ha,3597,,Official data
+QC,Crops,133,Mali,5419,Yield,125,Cassava,2014,2014,hg/ha,144987,Fc,Calculated data
+QC,Crops,133,Mali,5510,Production,125,Cassava,2014,2014,tonnes,52152,,Official data
+QC,Crops,144,Mozambique,5312,Area harvested,125,Cassava,2014,2014,ha,870300,,Official data
+QC,Crops,144,Mozambique,5419,Yield,125,Cassava,2014,2014,hg/ha,95054,Fc,Calculated data
+QC,Crops,144,Mozambique,5510,Production,125,Cassava,2014,2014,tonnes,8272530,,Official data
+QC,Crops,159,Nigeria,5312,Area harvested,125,Cassava,2014,2014,ha,6458435,,Official data
+QC,Crops,159,Nigeria,5419,Yield,125,Cassava,2014,2014,hg/ha,87217,Fc,Calculated data
+QC,Crops,159,Nigeria,5510,Production,125,Cassava,2014,2014,tonnes,56328480,,Official data
+QC,Crops,184,Rwanda,5312,Area harvested,125,Cassava,2014,2014,ha,198717,Im,FAO data based on imputation methodology
+QC,Crops,184,Rwanda,5419,Yield,125,Cassava,2014,2014,hg/ha,159280,Fc,Calculated data
+QC,Crops,184,Rwanda,5510,Production,125,Cassava,2014,2014,tonnes,3165172,Im,FAO data based on imputation methodology
+QC,Crops,195,Senegal,5312,Area harvested,125,Cassava,2014,2014,ha,31394,,Official data
+QC,Crops,195,Senegal,5510,Production,125,Cassava,2014,2014,tonnes,257259,,Official data
+QC,Crops,197,Sierra Leone,5312,Area harvested,125,Cassava,2014,2014,ha,387603,Im,FAO data based on imputation methodology
+QC,Crops,197,Sierra Leone,5419,Yield,125,Cassava,2014,2014,hg/ha,106007,Fc,Calculated data
+QC,Crops,197,Sierra Leone,5510,Production,125,Cassava,2014,2014,tonnes,4108850,Im,FAO data based on imputation methodology
+QC,Crops,277,South Sudan,5312,Area harvested,125,Cassava,2014,2014,ha,99523,Im,FAO data based on imputation methodology
+QC,Crops,277,South Sudan,5419,Yield,125,Cassava,2014,2014,hg/ha,12681,Fc,Calculated data
+QC,Crops,277,South Sudan,5510,Production,125,Cassava,2014,2014,tonnes,126205,Im,FAO data based on imputation methodology
+QC,Crops,217,Togo,5312,Area harvested,125,Cassava,2014,2014,ha,282589,,Official data
+QC,Crops,217,Togo,5419,Yield,125,Cassava,2014,2014,hg/ha,40805,Fc,Calculated data
+QC,Crops,217,Togo,5510,Production,125,Cassava,2014,2014,tonnes,1153109,,Official data
+QC,Crops,226,Uganda,5312,Area harvested,125,Cassava,2014,2014,ha,852000,,Official data
+QC,Crops,226,Uganda,5419,Yield,125,Cassava,2014,2014,hg/ha,33005,Fc,Calculated data
+QC,Crops,226,Uganda,5510,Production,125,Cassava,2014,2014,tonnes,2812000,,Official data
+QC,Crops,215,United Republic of Tanzania,5312,Area harvested,125,Cassava,2014,2014,ha,800454,,Official data
+QC,Crops,215,United Republic of Tanzania,5419,Yield,125,Cassava,2014,2014,hg/ha,62374,Fc,Calculated data
+QC,Crops,215,United Republic of Tanzania,5510,Production,125,Cassava,2014,2014,tonnes,4992759,,Official data
+QC,Crops,251,Zambia,5312,Area harvested,125,Cassava,2014,2014,ha,157694,Im,FAO data based on imputation methodology
+QC,Crops,251,Zambia,5419,Yield,125,Cassava,2014,2014,hg/ha,58309,Fc,Calculated data
+QC,Crops,251,Zambia,5510,Production,125,Cassava,2014,2014,tonnes,919497,,Official data
+QC,Crops,181,Zimbabwe,5312,Area harvested,125,Cassava,2014,2014,ha,50528,Im,FAO data based on imputation methodology
+QC,Crops,181,Zimbabwe,5510,Production,125,Cassava,2014,2014,tonnes,234572,Im,FAO data based on imputation methodology
+QC,Crops,158,Niger,5312,Area harvested,125,Cassava,2014,2014,ha,6651,,Official data
+QC,Crops,158,Niger,5510,Production,125,Cassava,2014,2014,tonnes,133099,,Official data
+QC,Crops,201,Somalia,5312,Area harvested,125,Cassava,2014,2014,ha,9590,Im,FAO data based on imputation methodology
+QC,Crops,201,Somalia,5510,Production,125,Cassava,2014,2014,tonnes,91142,Im,FAO data based on imputation methodology
